@@ -1,0 +1,132 @@
+import pandas as pd from bs4 import BeautifulSoup html = '''
+<div
+  class="overlay -backdrop full left"
+  id="overlay"
+  style="width: 376px; top: 0px; left: 0px"
+>
+  <div class="overlay-content" id="overlay-content">
+    <div class="overlay-bar">
+      <div class="overlay-bar__slot">
+        <div class="booth__bar">5G &amp; IN-BUILDING WIRELESS PAVILION</div>
+      </div>
+      <button class="far fa-times overlay-bar__close"></button>
+    </div>
+    <div class="overlay-content__scrollable ps">
+      <div class="booth__content -spec">
+        <div class="booth__desc">
+          <p>
+            5G technology has grabbed the world’s attention in recent years,
+            touting the capability of connecting virtually everyone and
+            everything together at unprecedented speed and low latency. This
+            year’s 5G &amp; In-Building Wireless Pavilion will feature the
+            leading vendors focused on bringing the next generation of
+            in-building wireless solutions to the commercial and corporate real
+            estate market. Attendees will experience first-hand a new kind of
+            telecommunications network enabled by 5G, CBRS, WiFi 6, small cell
+            as well as other emerging in-building wireless technologies, all
+            positioned to radically change building communication
+            strategies.&nbsp;
+          </p>
+          <p>
+            <strong><u>EXHIBITORS</u></strong>
+          </p>
+          <p>
+            <a href="/?spinview" rel="noopener noreferrer" target="_blank"
+              >901 - Spinview</a
+            >
+          </p>
+          <p>
+            <a
+              href="/?sba-communications"
+              rel="noopener noreferrer"
+              target="_blank"
+              >903 - SBA Communications</a
+            >
+          </p>
+          <p>
+            <a href="/?andorix-inc" rel="noopener noreferrer" target="_blank"
+              >909 - Andorix Inc.</a
+            >
+          </p>
+          <p>
+            <a href="/?jma-wireless" rel="noopener noreferrer" target="_blank"
+              >911 - JMA Wireless</a
+            >
+          </p>
+          <p>
+            <a href="/?halo-networks" rel="noopener noreferrer" target="_blank"
+              >915 - HALO Networks</a
+            >
+          </p>
+          <p>
+            <a href="/?solid" rel="noopener noreferrer" target="_blank"
+              >1001 - SOLiD</a
+            >
+          </p>
+          <p>
+            <a
+              href="/?new-era-technology"
+              rel="noopener noreferrer"
+              target="_blank"
+              >1003 - New Era Technology</a
+            >
+          </p>
+          <p>
+            <a
+              href="https://rcib2023lv.expofp.com/?voltserver"
+              rel="noopener noreferrer"
+              target="_blank"
+              >1005 - VoltServer</a
+            >
+          </p>
+          <p>
+            <a href="/?corning" rel="noopener noreferrer" target="_blank"
+              >1009 - Corning</a
+            >
+          </p>
+          <p>
+            <a
+              href="/?spot-on-networks"
+              rel="noopener noreferrer"
+              target="_blank"
+              >1013 - Spot On Networks</a
+            >
+          </p>
+          <p>
+            <a href="/?multitech" rel="noopener noreferrer" target="_blank"
+              >1015 - MultiTech</a
+            >
+          </p>
+        </div>
+      </div>
+      <div
+        style="
+          visibility: hidden;
+          pointer-events: none;
+          height: 0px;
+          position: absolute;
+          bottom: 0px;
+        "
+      ></div>
+      <div class="ps__rail-x" style="left: 0px; bottom: 0px">
+        <div
+          class="ps__thumb-x"
+          tabindex="0"
+          style="left: 0px; width: 0px"
+        ></div>
+      </div>
+      <div class="ps__rail-y" tabindex="0" style="top: 0px; right: 0px">
+        <div
+          class="ps__thumb-y"
+          tabindex="0"
+          style="top: 0px; height: 0px"
+        ></div>
+      </div>
+    </div>
+  </div>
+</div>
+''' soup = BeautifulSoup(html, 'html.parser') exhibitors = soup.find_all('div',
+class_='booth__desc')[0] exhibitor_data = [] for exhibitor in
+exhibitors.find_all('a'): exhibitor_data.append(exhibitor.text.strip()) df =
+pd.DataFrame({'Exhibitors': exhibitor_data}) df.to_excel('exhibitors.xlsx',
+index=False)

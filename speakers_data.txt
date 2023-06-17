@@ -1,0 +1,1970 @@
+Name: Joseph Aamidor
+Title: Managing Director
+Company: Aamidor Consulting
+Description: Joseph Aamidor is an experienced product leader and expert in smart buildings, real estate technology and facility operations. He provides product and market strategy guidance to building owners/operators, established building management firms, technology providers, investors, and early-stage innovators. Previously, he served as Director of Product at Lucid Design Group and was a product manager at Johnson Controls.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: IoT in Smart Buildings: Making Sense of Sensor Technology
+
+Name: Francisco Acoba
+Title: Principal, Strategy & Transactions, Corporate Real Estate Consulting
+Company: EY
+Description: Francisco Acoba is a principal at Ernst & Young LLP with more than 24 years of global experience providing management consulting services to Fortune 500 companies and the world’s largest public sector entities.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Focusing on Workplace: Digital Platforms to Streamline and Enhance Experience
+
+Name: Marty Agan
+Title: SVP, Marketing & Business Development
+Company: Calumino
+Description: Marty Agan is a technology executive with 20+ years of experience driving innovation in the imaging industry. He helped launch early CMOS image sensor technology into the market at startup Photobit, and contributed to the market's growth to $15B USD through subsequent ventures. With multiple successful exits under his belt, Marty recently joined Calumino (Sydney, Australia) to help bring their intelligent thermal sensor technology to the commercial real estate market. At Calumino, Marty leads global marketing and US business development.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Stephen Albin
+Title: Director, Real Estate Data Strategy & Analytics
+Company: Salesforce
+Description: Stephen Albin is currently the Director of Real Estate Data Strategy & Analytics for Salesforce. He has over a decade of experience in corporate real estate, specializing in strategic planning across diverse sectors. His trusted expertise spans finances, operations, project management, and data technology. Recently, his focus has been on supporting technology companies in optimizing their real estate and data strategies. Stephen's current work centers around leveraging return-to-office data to enhance the employee experience and improve workspace productivity. A passionate advocate for great data governance and data literacy, Stephen is dedicated to promoting informed decision-making through the effective use of data.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Three Years Post Pandemic: How is Big Tech Addressing Occupancy and Utilization Data?
+
+Name: Ryan Allbaugh
+Title: VP, Corporate Properties Group Senior Technology Strategy Lead
+Company: Wells Fargo
+Description: Ryan Allbaugh has over 20 years of experience in the IT industry. Currently, he leads highly knowledgeable and collaborative teams to design and implement technical solutions for Wells Fargo’s corporate properties group. As the former CIO of the largest private commercial real estate developer in the southeast, Ryan applied his extensive knowledge  to implement technology solutions impacting the real estate industry, such as his role in the development of one of the most technologically sophisticated buildings in the world, the Duke Energy Center in Charlotte, NC.
+Sessions: Tuesday, June 13, 2023 - 8:50 am: Cyber IT vs. OT Boundaries: Applying IT Standards to OT
+
+Name: Harry Aller
+Title: President
+Company: Innovative Lighting
+Description: 
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Solution Showcase
+
+Name: Aaron Altscher
+Title: Director of CRE Technology Initiatives
+Company: Carr Properties
+Description: Aaron Altscher is the Director of Technology Initiatives at Carr Properties. Aaron leads IT innovation efforts and is the architect and developer for Carr’s Data Analytics, IoT, Machine Learning/AI, and Hospitality platforms.  Aaron’s 2022 focus is on IT innovation around data automation and the return to work movement.
+Sessions: Tuesday, June 13, 2023 - 3:30 pm: Learning from Experience: Building a Low Voltage Lab
+Wednesday, June 14, 2023 - 4:00 pm: Turning Information into Intelligent Insights: Modern Analytics for Data-Driven Decisions
+
+Name: Vijay Anand
+Title: VP, AI & Data
+Company: MRI Software
+Description: Vijay Anand, VP for AI & Data at MRI, leads the creation of top-tier AI-based real estate software, leveraging over 20 years of experience in product development at the Big 4. Harnessing AI, ML, data, and analytics, he builds insightful solutions that address customer problems, all while pioneering in product strategy and delivering cloud-based global solutions.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Turning Information into Intelligent Insights: Modern Analytics for Data-Driven Decisions
+
+Name: Chris Andrews
+Title: Design & Preconstruction Director
+Company: Aptitude
+Description: With more than 27 years of industry experience, Chris is an invaluable leader at Aptitude, helping clients identify the right systems and technologies for their unique needs. As the Design and Preconstruction Director, he is responsible for developing technologically sound integration solutions and their implementation on schedule and within budget.
+Sessions: Tuesday, June 13, 2023 - 2:45 pm: Smart Building Design with the End in Mind
+
+Name: Tyler Andrews
+Title: CEO
+Company: PoE Texas
+Description: Tyler Andrews is a leader and influencer on Intelligent Buildings and Power Over Ethernet. With his unique mix of technical expertise, construction experience, and project management knowledge, Tyler leads PoE Texas by making technology accessible to facility owners.
+Sessions: Tuesday, June 13, 2023 - 1:55 pm: Low Voltage 101
+Tuesday, June 13, 2023 - 3:45 pm: Holy Grail: The Low Voltage Architecture - Case Study Showcase
+Tuesday, June 13, 2023 - 4:30 pm: Industry Challenges and Opportunities
+Tuesday, June 13, 2023 - 5:00 pm: Solution Showcase
+Wednesday, June 14, 2023 - 4:00 pm: Low-Voltage Buildings: The Holy Grail?
+
+Name: Brandon Arcement
+Title: Chief Commercial Officer
+Company: SwiftConnect
+Description: Brandon has almost 20 years of industry experience with smart building technology, identity management, and physical access control. Brandon currently serves as Chief Commercial Officer for SwiftConnect, a leading provider of connected access enablement. In this role, Brandon leads the development and execution of the company’s commercial strategy for SwiftConnect’s AccessCloud platform, the first to enable employee badges in Apple Wallet.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Farukh Aslam
+Title: CEO & President
+Company: Sinclair Holdings
+Description: 
+Sessions: Tuesday, June 13, 2023 - 2:30 pm: The Emerging Low Voltage Ecosystem:  AC vs. DC - Building the Business Case
+Tuesday, June 13, 2023 - 3:45 pm: Holy Grail: The Low Voltage Architecture - Case Study Showcase
+Wednesday, June 14, 2023 - 4:00 pm: Low-Voltage Buildings: The Holy Grail?
+
+Name: Ylli Bajraktari
+Title: CEO
+Company: Special Competitive Studies Project (SCSP)
+Description: 
+Sessions: Tuesday, June 13, 2023 - 2:25 pm: Understanding the 5G+ Global Competitiveness Landscape
+
+Name: Jim Baldwin
+Title: CEO
+Company: Domatic
+Description: 
+Sessions: Tuesday, June 13, 2023 - 1:55 pm: Low Voltage 101
+Tuesday, June 13, 2023 - 3:45 pm: Holy Grail: The Low Voltage Architecture - Case Study Showcase
+Wednesday, June 14, 2023 - 4:00 pm: Low-Voltage Buildings: The Holy Grail?
+
+Name: Howard Barash
+Title: Finance Executive, Principal
+Company: HB Solutions
+Description: Howard Barash is a finance executive with over 20 years of success in driving revenue, profitability, and asset performance in the real estate industry. His expertise has benefitted domestic and international companies ranging from a start-up real estate investment trust to a mature asset management company, with portfolios in the single and multi-family housing spaces. Through leadership roles as a Chief Financial Officer, as well as as a trusted external consultant, he has leveraged his wealth of talents to maximize growth, capital, investor returns, regulatory compliance, and operational efficiency.
+Sessions: Wednesday, June 14, 2023 - 2:45 pm: Investment Management: Market Volatility from the Technology Perspective
+
+Name: Chris Barbier
+Title: Senior Director
+Company: Yardi Systems, Inc.
+Description: Chris Barbier is the Senior Director for Investment Management at Yardi, working with clients, sales, services, and the product team in delivering real estate investment solutions.  He has over 27 years of experience working with global software, financial, and professional service businesses. Chris has worked in many aspects of the real estate investment management industry, including product management, consulting, technology leadership, and portfolio accounting as a former CPA.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Eutopia Investment Management (EIM): Consultation Workshop / Luncheon
+Wednesday, June 14, 2023 - 4:00 pm: Investment Management & Best Practices Case Study Session
+
+Name: Jason Beck
+Title: VP, Building Technology
+Company: WSP
+Description: Jason is Vice President of Building Technology in WSP’s innovation advisory practice.  He brings expertise in integrating the total business vision from the disparate interests of varied stakeholder groups into the built environment design and delivery process. Having spent a large portion of his career in Life Science, Technology and Healthcare real estate development and portfolio management, he has experienced firsthand the demands of tenant organizations and the needs of facilities management and corporate real estate. In leading stakeholder engagement workshops, Jason adds an invaluable dimension to the business outcome visioning process. His considerable experience as a construction manager including technology master planning, integrating project teams, and marshalling resources towards common ends helps to ensure projects are executed to maximum effect.
+Sessions: Tuesday, June 13, 2023 - 3:15 pm: Industry Powerhouses Weigh-In on Climate Challenge in the Built Environment
+Wednesday, June 14, 2023 - 4:00 pm: Carbon Accounting, Reporting and Recommendation Engine Platforms: What’s in Your Toolbox?
+
+Name: Porter Bellew
+Title: VP, CIO
+Company: Federal Realty
+Description: Porter Bellew is VP, CIO for Federal Realty Investment Trust. He is responsible for the Trust’s information technology strategy, services, operations and team. Porter has over 25 years of experience in real estate information management.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: Modern AP Automation: Overcoming the Headaches
+
+Name: Howard Berger
+Title: Managing Partner, SVP Programs
+Company: Realcomm
+Description: Howard Berger has over 30 years of experience in technology and commercial/investment real estate. As Realcomm's SVP Programs, he manages its US and international conferences and CIO programs. Previously, he was with The Jamesan Group, which specialized in strategic technology consulting for the commercial real estate industry and prior to that, he was with TRW Real Estate Information Systems where he developed real estate information systems for the mortgage, appraisal and title insurance industries.
+Sessions: Tuesday, June 13, 2023 - 12:00 pm: Welcome & Introductions
+Tuesday, June 13, 2023 - 2:10 pm: Breakout Leaders' Recap
+Wednesday, June 14, 2023 - 8:45 am: Welcome and introductions (Day One)
+Thursday, June 15, 2023 - 8:15 am: General Session (Day Two)
+
+Name: David Blanch
+Title: CEO
+Company: Bitpool
+Description: David Blanch is a dynamic leader with a 20-year track record in building technology data and software development. As CEO of Bitpool, an Australian startup revolutionizing building technology, David brings his expertise to drive innovative solutions in the prop-tech space.
+At Bitpool, his passion for harnessing data and dedication to removing the complexity of integrating and owning on-premise systems with emerging tech has led to the development of AI-driven data assistants, empowering clients to make data-informed, sustainable decisions in property management. A mentor and industry thought leader, David inspires the next generation of building tech and software development professionals, ensuring a vibrant future for the prop-tech world.
+Sessions: Thursday, June 15, 2023 - 11:30 am: Open Source to Cloud: Fast, Cheap and Secure Access to Smart Building Data
+
+Name: Susan Blanchet
+Title: Founder & CEO
+Company: Origen Air Systems
+Description: Susan Blanchet is the Founder and CEO of Origen Air, a company that has created biophilic air purification systems using their patented genetically engineered golden pothos to metabolize volatile organic compounds from the air while removing CO2 and supplying oxygen. Prior to starting her company, Susan was a lawyer and worked as legal counsel for the province of BC for 14 years.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Jorge Blanco
+Title: Chief Commercial Officer
+Company: Altus Group
+Description: 
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: View from the Top: Industry Tech Giants Speak on the State of the Industry
+
+Name: Brandon Bledsoe
+Title: Principal
+Company: BentallGreenOak
+Description: 
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: Data Governance: Building an Effective Framework
+
+Name: Gene Boniberger
+Title: SVP, Director of Building Operations
+Company: Rudin Management
+Description: Gene Boniberger started his career at Rudin Management Company. In 2013, He was promoted to SVP, Operations Department and additionally assumed responsibilities for the 5 million SF residential portfolio. Gene manages the Rudin Operations Department as well as day to day operation of the Organization’s commercial and residential portfolio, and the MEP/Operations aspects of all new construction projects.
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Modern Data Architecture for Real-Time Energy Management
+
+Name: Melissa Boutwell
+Title: President
+Company: Automation Strategy & Performance
+Description: Leading teams to achieve stretch goals for resilient communities is the watermark of Melissa Boutwell’s career. Melissa brings an extensive problem-solving tool chest curated over 30 years of leading integrated automation projects in the energy and critical infrastructure sector of Smart, Resilient Cities.  She has served as a senior operational leader,  systems integrator, asset owner, and college professor to help build the future we need. Today, Melissa focuses on strategic workforce solutions that accelerate the deployment of integrated automation in clean energy, critical infrastructure, commercial real estate, advanced manufacturing, and OT cybersecurity.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Acquisition, Retention and Development: Creating a Talent Strategy for Smart Building Professionals
+
+Name: Aaron Brown
+Title: Associate Founder
+Company: 2430 Group
+Description: Aaron has over two decades of experience in law enforcement, Army Special Operations, and national security, including as a senior operations officer and field leader at the Central Intelligence Agency. Aaron is a proven problem solver and innovator, with experience leading complex, dynamic, and multimillion dollar intelligence missions across the globe, in war zones, austere environments, throughout the Near East, Eastern Europe, and Asia. Aaron is a recognized expert in the exponential risk of surveillance technology.
+Sessions: Thursday, June 15, 2023 -: Global Technology Competitiveness: The Nation State Battle is Upon Us
+Thursday, June 15, 2023 - 12:30 pm: Understanding Nation State Technology Challenges and Threats!
+
+Name: Joe Brown
+Title: VP, Building Technology
+Company: KingSett Capital
+Description: Joe Brown is responsible for enhancing technology, innovation, resiliency and sustainability, driving value across KingSett's real estate portfolio of over $16 billion of assets under management. He began his career consulting on energy projects and building commissioning and has spent the last 15 years in building technology and operations through various roles.
+Sessions: Tuesday, June 13, 2023 - 1:35 pm: Setting and Actually Achieving Targets
+
+Name: Simon Brunet
+Title: President
+Company: Connected Sensors
+Description: Simon Brunet is the Founder and President of Connected Sensors, a leader in water monitoring and conservation. He has dedicated the last five years to meticulously researching and crafting a groundbreaking solution that effectively mitigates building risk and revolutionizes water management. Leveraging his extensive finance background, Simon has skillfully developed and implemented models that yield a remarkable return on investment for all stakeholders, ranging from insurance companies to property owners and managers.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Anto Budiardjo
+Title: CEO
+Company: Padi.io
+Description: Anto Budiardjo is CEO of Padi.io. He has been a veteran in the connected building space since 1989, having developed numerous integration platforms for buildings focused on interoperability. Today, Anto focuses on system integration in the Internet era with an online platform Padi.io. Core to Padi is the advocacy of CNS/CP (Connection Profiles), an interoperation mechanism being adopted as the open mechanism by Digital Twin communities.
+Sessions: Tuesday, June 13, 2023 - 10:25 am: Should You Add BACnet/SC and Managed BACnet to Your Tech Stack?
+Tuesday, June 13, 2023 - 4:35 pm: BACnet SC: Proposed
+
+Name: Daniel Burns
+Title: Global Head, Building Technology Advisory
+Company: JLL Technologies
+Description: 
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: Smart Organizations to Drive Smarter Buildings
+Thursday, June 15, 2023 - 12:30 pm: Data-as-a-Service: Benefits of Outsourcing Information Services in the Built Environment
+
+Name: Mita Butschek
+Title: VP, Business Process Group
+Company: Hines
+Description: Mita is currently VP of Business Process Group, a global team whose function is responsible for various digital transformation and technology-based project management initiatives within Hines. As a strategic enabler for the business, the group partners with all regions and platforms within Hines to assess, deploy, and implement process improvements as well as technology solutions. Previously, she was an MD leading the Investment Management Americas modeling group, where they deliver real-time strategic analysis and liquidity projections for optimal acquisition and divestiture within the Flagship Funds, totaling more than $4 billion dollars.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: Applying Tech and Innovation to Define, Implement and Accelerate Your DEIB Strategy
+
+Name: Rob Cain
+Title: SVP, Product
+Company: Dealpath
+Description: Rob Cain is Dealpath's SVP of Product, bringing over two decades of experience at the forefront of building solutions for the global real estate industry including nearly 10 years with CoStar, one of today’s leading providers of commercial real estate information, marketing, and technology. Most recently, he served as VP of Product Design where Rob led the team responsible for numerous commercial information products within the company.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Eutopia Investment Management (EIM): Consultation Workshop / Luncheon
+Wednesday, June 14, 2023 - 2:45 pm: Investment Management: Market Volatility from the Technology Perspective
+
+Name: Katarina Camacho
+Title: Building Data Architecture & IoT Engineer
+Company: QuadReal
+Description: Katarina Camacho is the Building Data Architecture and IoT Engineer at QuadReal Property Group. With a background in Mathematical, Electrical, and Computer Engineering, she combines her expertise in data analysis and technology to drive innovation in the real estate industry. Katarina leverages data for optimizing building operations, enhancing the tenant experience, and deploying cutting-edge solutions. She has a strong track record of collaborating with cross-functional teams on high-profile projects, utilizing her skills to deliver innovative outcomes. Katarina's passion lies in applying her diverse skill set to transform the real estate landscape through data-driven strategies.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Pushing Technology Forward: Younger Thought Leaders Weigh In
+
+Name: Ian Cameron
+Title: Chief Integration Officer
+Company: OSCRE International
+Description: A recognized thought-leader and practitioner, Ian shapes the role of information in the industry's most innovative companies.  A Founder and past Chairman, Ian is now leading OSCRE into new territory and supports implementations of OSCRE standards.  He has over 30 years' experience with global corporations and investment organizations, their service providers and software firms.  Ian has held executive positions in leading consulting and software firms and is a regular speaker, author and faculty in executive development.
+Sessions: Tuesday, June 13, 2023 - 3:45 pm: Collecting and Managing the Data: The Good, the Bad and the Ugly
+Thursday, June 15, 2023 - 12:30 pm: The New Age of “Open”: Paving the Road for Smart Building Data Interoperability
+
+Name: Wayne Campbell
+Title: Partner
+Company: Artefact
+Description: 
+Sessions: Thursday, June 15, 2023 -: Artificial Intelligence in the Built Environment
+
+Name: Scott Cardenas
+Title: CTO
+Company: Bridge Investment Group
+Description: Scott Cardenas serves as Managing Director and the Chief Technology Officer for Bridge Investment Group.  Over his career, Scott has worked globally implementing enterprise solutions to drive innovation, business efficiency and standardization. Prior to Bridge, Scott worked as the Chief Information Officer for the City and County of Denver. He oversaw the implementation of a new ERP platform, which served over 13K employees and 23 lines of business. In addition, Denver also implemented a new CRM platform that interfaced with over 700K residents, which improved overall communication and engagement.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Master Class in Successful Application Evaluations, Data Consolidations and Business Partnerships
+
+Name: Jim Carr
+Title: Chief Innovation Officer
+Company: BentallGreenOak
+Description: 
+Sessions: Wednesday, June 14, 2023 - 1:45 pm: Investment Management Data Integration and Advanced Analytics
+
+Name: Oliver Carr
+Title: CEO
+Company: Carr Properties
+Description: Oliver Carr serves as Carr Properties’ Chief Executive Officer and is a member of our Board of Directors. Prior to founding Carr Properties, Oliver served as Chairman and CEO of Columbia Equity Trust (NYSE:CEO), where he and his team successfully took the company public in 2005. During his career, Oliver has completed over $4.0 billion of property acquisitions, mergers, joint ventures, and financings.
+Sessions: Tuesday, June 13, 2023 - 12:50 pm: Critical Importance of Executive Support
+
+Name: Jesse Carrillo
+Title: Chief Innovation Officer
+Company: Howard Hughes Corporation
+Description: Jesse Carrillo is Chief Innovation Officer for The Howard Hughes Corporation. He oversees the strategy and operation of the company’s innovation and technology platforms across HHC’s national portfolio of large-scale master planned communities (MPCs) and mixed-use properties. Previously, he was CIO at Hines directing all corporate technology, strategy and standards for the global real estate firm worldwide.
+Sessions: Wednesday, June 14, 2023 - 7:30 am: Inaugural Allies Breaking Barriers Sunrise Session
+Wednesday, June 14, 2023 - 12:00 pm: View from the Top: Industry Tech Giants Speak on the State of the Industry
+
+Name: Logan Carter
+Title: Co-Founder & CCO
+Company: Ivy Energy
+Description: Logan Carter has a diverse background that allows him to specialize in development, finance and legal. As Co-Founder and CCO, he is responsible for executive growth, partnerships, and operations. Prior to Ivy, he worked with a CA utility through their transition from Solar NEM to Post-NEM Billing. In parallel, he joined a real estate development partnership. His unique background experience has been instrumental in fueling the company’s drive to transform solar billing in real estate.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: DeJeana Chappell
+Title: Principal, Workplace Strategy Leader
+Company: EY
+Description: DeJeana Chappell serves as the Workplace Strategy Solution Leader for EY, advising a team of specialists who help to deliver integrated solutions to clients, helping to close the gap between real estate performance, user experience and future business enablement. She is a Principal in the Corporate Real Estate (CRE) practice within EY’s Strategy and Transactions organization. With more than 18 years of experience, DeJeana has helped clients strategize, design and implement workplace programs to reimagine office and real estate portfolios that enhance employee experience, optimize space and flexibility, and deliver enterprise workplace and organizational transformation.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Destination Office: Supercharging the Workplace
+
+Name: Vardahn Chaudhry
+Title: VP, Smart Cities & Digital Infrastructure
+Company: JBG Smith
+Description: 
+Sessions: Tuesday, June 13, 2023 - 3:40 pm: 5G / CBRS and Private Networks: Hype vs. Reality
+
+Name: Jeffrey Chulick
+Title: Workplace Insight Leader
+Company: EY
+Description: Jeff Chulick is the Technology and Innovation Leader for EY Real Estate Services. He leads a global team of professionals focused on the identification, innovation, design and realization of technology solutions that greatly enhance the workplace experience. His areas of focus include digital strategy, smart workplace, IoT, visual communications, workplace management, physical access and audio/visual technology. Jeff has over 20 years of enabling workplace strategies and delivering innovative solutions for EY and external clients across many different industries.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Destination Office: Supercharging the Workplace
+
+Name: John Chung
+Title: CIO
+Company: Morguard
+Description: 
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Intelligent Automation: NextGen AI ChatBot Applications for Commercial Real Estate
+
+Name: Jon Clarke
+Title: Head of Smart Building Technology
+Company: Dexus
+Description: Jon Clarke is Head of Smart Building Technology and responsible for overseeing the strategic deployment of Building Technology, Proptech and Innovative solutions across the portfolio. He leads the building technology team who research and trial emerging technologies with a focus on solving real problems with scalability to deliver the next generation of cutting edge digitally enabled buildings.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: The Disrupted Journey to a Smarter Building
+Thursday, June 15, 2023 - 11:30 am: Open Source to Cloud: Fast, Cheap and Secure Access to Smart Building Data
+
+Name: Scott Cochrane
+Title: President
+Company: Cochrane Supply
+Description: Scott Cochrane is President and CEO of Cochrane Supply & Engineering, overseeing six branches throughout three states and one in Canada. He is an advisory council member for multiple industry manufacturers such as Honeywell, Johnson Controls, and Tridium.
+Sessions: Tuesday, June 13, 2023 - 1:30 pm: Welcome and Introductions
+Tuesday, June 13, 2023 - 1:45 pm: SI vs. MSI: The Evolving Role of the System Integrator
+Tuesday, June 13, 2023 - 5:55 pm: Wrap-Up
+
+Name: Jesse Collier
+Title: Product Marketing Manager
+Company: Acuity Brands
+Description: Jesse Collier is a Senior Product Manager at Acuity Brands, which is a lighting, lighting control, and building management system manufacturer. He has worked for Acuity Brands the past 10 years in roles that include Product Management, Design and Application Engineering, and Technical Support. Jesse specializes in network infrastructure and wireless systems, and he is the nLight lighting control platform’s product management point of contact for cybersecurity matters.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Test for Success: De-Risking Smart Building Tech Deployments
+
+Name: Matt Conger
+Title: Head of Sales
+Company: Sinclair Digital
+Description: Matt has over a decade of sustainable intelligent building systems experience.  He has a passion for creating a better work environment that fosters occupant fulfilment, productivity, health and wellness while maximizing energy savings and minimizing maintenance.  Currently, he is responsible for Sinclair Digital's multi-channel sales strategy. In his past, he has been responsible for building systems strategies, specification sales, and leading product management, field service and technical support teams for small, medium, and large enterprises.  His early work in product management, marketing, and industrial & systems engineering allow him to think differently about solving today’s workplace challenges.
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Solution Showcase
+
+Name: Travis Connors
+Title: Co-Founder and General Partner
+Company: Building Ventures
+Description: Travis Connors is a Co-Founder and General Partner of Building Ventures, the firm’s Built Environment Innovation Fund and a Board Member at Smartvid.io. Travis has worked closely with emerging startups in the Boston area for the past seventeen years.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Diminishing the Impact of Technology Losses: Defining a "Start-Up Failure Proof" Strategy
+Thursday, June 15, 2023 - 11:30 am: PropTech and its Relationship with the Future of CRE: A VC Perspective
+
+Name: Joe Consolo
+Title: Industry Principal
+Company: Yardi
+Description: Joe Consolo is an industry principal with more than 20 years of business leadership experience. He has expertise in business development, operational excellence, sustainability and team leadership. Joe worked in multiple industries, including the energy, commercial, oil and gas, semiconductor, and medical fields. He started his career at Yardi in 2016 and has been instrumental in leading our growing energy business.
+Sessions: Tuesday, June 13, 2023 - 3:15 pm: Industry Powerhouses Weigh-In on Climate Challenge in the Built Environment
+Wednesday, June 14, 2023 - 4:00 pm: Carbon Accounting, Reporting and Recommendation Engine Platforms: What’s in Your Toolbox?
+
+Name: Mike Conway
+Title: Founder & President
+Company: Stacks+Joules
+Description: 
+Sessions: Tuesday, June 13, 2023 - 2:30 pm: Recruiting and Training Our Next Generation of Controls Professionals
+Wednesday, June 14, 2023 - 5:00 pm: Acquisition, Retention and Development: Creating a Talent Strategy for Smart Building Professionals
+
+Name: Timothy Cook
+Title: Vice President - Smart Building Technology Innovation
+Company: Goldman Sachs
+Description: 
+Sessions: Tuesday, June 13, 2023 - 3:00 pm: Alumni Stories
+
+Name: Shaun Cooley
+Title: CEO
+Company: Mapped
+Description: Shaun Cooley is the Founder and CEO of Mapped, the independent data layer for commercial real estate powering the future of PropTech. With over 25 years of industry experience, he previously served as Vice President & CTO for Cisco’s Internet of Things (IoT) Business, responsible for Cisco’s long-term IoT technology strategy. Prior to that, he was a Distinguished Engineer for Norton, by Symantec, contributing to the creation and advancement of offerings in the Norton portfolio. Shaun holds a master’s degree in computer science from University of Illinois and is a Certified Information Systems Security Professional (CISSP). He is an active angel investor and a start-up mentor through Forum Ventures. Shaun is named inventor on over 125 issued United States patents and was previously a director of the Open Connectivity Foundation and former board member of Attivo Networks.
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Tech Partner Conversation | Mapped
+
+Name: Ben Cooper
+Title: Manager, Property Technology
+Company: Bentall Green Oak
+Description: 
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Diminishing the Impact of Technology Losses: Defining a "Start-Up Failure Proof" Strategy
+
+Name: Diane Cornwell
+Title: Cybersecurity Training Coordinator
+Company: TEEX
+Description: 
+Sessions: Tuesday, June 13, 2023 - 10:45 am: Training Our Next Generation of Cyber Professionals
+
+Name: Shaan Cory
+Title: President
+Company: BTune
+Description: Shaan Cory is the Founder and President of BTune, a technology startup that optimizes the HVAC systems in non-residential buildings to cut energy waste and carbon emissions using developed Automated System Optimization (ASO) technology. Prior to founding BTune, Shaan worked as a Building Scientist for Beca, a large professional advisory firm serving APAC for more than 100 years, where he helped clients improve sustainability and energy efficiency practices. While completing his PhD in Building Science, Shaan audited dozens of commercial buildings to understand how they waste energy, which provided the insights for what would ultimately become BTune.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Michael Cravens
+Title: Senior Manager
+Company: LionPoint Group
+Description: Michael Cravens, Senior Manager at Lionpoint Group, leverages over a decade of real estate experience to deliver technology and data solutions tailored to meet clients' business objectives. Prior to Lionpoint, Michael honed his skills in accounting and FP&A roles within investment management firms. He also provided due diligence services to top banks and investment managers. Drawing on this extensive industry knowledge, Michael offers resilient, proactive solutions for data strategy & governance initiatives and system implementations.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Master Class in Successful Application Evaluations, Data Consolidations and Business Partnerships
+
+Name: Brad Croasdale
+Title: Director of Sales and Business Development, Abound
+Company: Carrier
+Description: Brad is the Sales Director for Abound & Digital products at Automated Logic, a division of Carrier Global Corp, a leading provider of innovative building automation, IoT, and energy management solutions. Brad has over 14 years of HVAC & BMS industry experience across all sectors of the business in various roles in global and domestic, sales, product management, and business development responsibilities.
+Sessions: Tuesday, June 13, 2023 - 1:30 pm: AI and the Digital Building Transformation
+
+Name: Mark Cruth
+Title: Modern Work Evangelist
+Company: Atlassian
+Description: Mark is truly "living the dream" as Atlassian’s resident Modern Work expert and evangelist. Focused on practice over theory, Mark spends his days coaching both Atlassian and customer teams on new ways of working, then sharing what he's learned at events around the world! Joining Atlassian in 2019, Mark brings over a decade of experience experimenting with work and helping people, teams, and organizations transform at places like Boeing, Nordstrom, TD Ameritrade, and Rocket Mortgage. Mark has made it his mission to inject modern ways of working, a transformation mindset, and the power of expert storytelling into everything he does.
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Working from Anywhere at Atlassian
+
+Name: Bill Cune
+Title: VP,  Wireless Market Development
+Company: Corning
+Description: Bill Cune is responsible for understanding the intersection between technology trends and market needs to define and create new approaches to deliver future ready network and connectivity solutions. This includes identifying and collaborating with key ecosystem players and customers to deliver differentiated optical solutions that re-define networking in the millennial era. Bill’s wide-ranging industry expertise enables him to provide a broad perspective from which to evaluate new trends in the market and in technology.
+Sessions: Thursday, June 15, 2023 - 11:30 am: 5G, DAS / CBRS Deployments in Commercial Real Estate: Is the Technology Living Up to Expectations?
+
+Name: Andrea Curley
+Title: Regional Director
+Company: Yardi Systems, Inc.
+Description: 
+Sessions: Tuesday, June 13, 2023 - 12:10 pm: From Data to Decision Making: Leveraging Technology to Optimize Real Estate Investments
+
+Name: Emmanuel Daniel
+Title: Director, Digital Transformation & Smart Buildings, CoI, Global Workplace Services
+Company: Microsoft
+Description: Emmanuel Daniel is responsible for building and delivering the Digital Transformation strategy for campuses across Microsoft and leads a global multidisciplinary team of architects and experience designers. He builds experiences that merge technology with the built environment, leading to the formation of spaces that respond to the needs of its users. He is also accountable for identifying, building and implementing the next generation of products that will make smarter and sustainable buildings.
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Occupant Experience and Hybrid Work
+Wednesday, June 14, 2023 - 12:00 pm: All About the Results: Sensor Data vs. Outcomes
+
+Name: Brian Davis
+Title: Director, Market Development
+Company: Corning
+Description: Brian Davis is the global director for market development, Corning Optical Communications. He has over 30 years of experience in in-building networks.  Today his focus is on networking trends, how we use networks, and ensuring we are considering the right network architectures – both wired and wireless – to deliver on the current and future needs within buildings so as to help in-building network owners prepare their facilities for emerging services and applications.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Low-Voltage Buildings: The Holy Grail?
+
+Name: Etrit Demaj
+Title: Co-Founder
+Company: KODE LABS
+Description: Etrit Demaj, Co-Founder of KODE Labs, leads the company’s operations, with responsibility for businesses in North America and Europe. He also oversees the company’s ongoing expansion efforts into emerging markets. Before KODE Labs, Etrit helped run operations and sales with other companies in the industry.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: The Modern Building Operating System (BOS) Stack: OT Software and Hardware Rationalization
+
+Name: Carrie Denning Jackson
+Title: Director of Tech & Innovation
+Company: Jamestown
+Description: 
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Inside Commercial Real Estate Innovation Labs: Where Future Building Technologies Come to Life
+
+Name: Bimal Desai
+Title: Co-Founder | Founder & Principal, DSP Design
+Company: GrydSense
+Description: Bimal Desai is Co-Founder of GrydSense, a globally celebrated AI-driven integrated PropTech solutions company in the real estate domain. He practices his passion for technology and data-science in real estate by driving the firm’s aggressively growing B2B business relationships, B2C engagements, go-to-market strategies and partnerships while also continuing to lead DSP Design Associates, an internationally acclaimed, 360° A&D practice catering to an array of verticals across domains for Fortune 500-1000 Companies for over 3+ Decades as its Founder & Principal.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: All About the Results: Sensor Data vs. Outcomes
+
+Name: Kira Dickson
+Title: Technology Program Manager
+Company: Google
+Description: Kira Dickson is a Technology Program Manager within Google's Real Estate and Workplace Services organization (REWS). She is responsible for evaluating and delivering technologies to enable REWS objectives, with a specific focus on Workplace Utilization. Prior to this, Kira was the Intelligent Environments Lead at the Google R+D Lab for the Built Environment, and an early employee at Comfy-Siemens (previously Building Robotics). Kira is passionate about leveraging data and innovation to transform our built environment.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Three Years Post Pandemic: How is Big Tech Addressing Occupancy and Utilization Data?
+
+Name: John Dulin
+Title: President
+Company: John Dulin Global Consulting
+Description: John Dulin is a 30-year global telecom and enterprise executive and has held senior positions in product management, marketing and sales in the areas of fiber optics, wireless and new technology development.
+Sessions: Tuesday, June 13, 2023 - 4:25 pm: Defining, Designing, Deploying and Managing Your In-Building Wireless Strategy
+
+Name: Hope Dunleavy
+Title: Enterprise Managing Consultant
+Company: RealFoundations
+Description: Hope Dunleavy is an Enterprise Managing Consultant with RealFoundations. She has over 20 years of diverse experience in the real estate industry, focusing primarily on commercial and residential owner/operators. Hope is an experienced property management and real estate professional with information technology, accounting, sales and training expertise. Hope has demonstrated success in the areas of project management, vendor management, information technology process and people management, business process improvement and system implementation.
+Sessions: Wednesday, June 14, 2023 - 7:30 am: Inaugural Allies Breaking Barriers Sunrise Session
+Wednesday, June 14, 2023 - 4:00 pm: Turning Information into Intelligent Insights: Modern Analytics for Data-Driven Decisions
+
+Name: Frank Durso
+Title: Associate Director
+Company: Stanford University
+Description: Frank Durso has 25+ years experience with building automation, energy efficiency, commercial/ industrial utility program management, business development and operations management. He is currently the Associate Director for the Stanford Facilities Automation Center. The FAC is responsible for the Operation and Maintenance of all of the University’s building automation assets.
+Sessions: Tuesday, June 13, 2023 - 1:45 pm: SI vs. MSI: The Evolving Role of the System Integrator
+
+Name: Beth Eckenrode
+Title: Co-founder
+Company: AUROS Group
+Description: Beth Eckenrode is co-founder of AUROS Group which merges building science and data science to cost effectively reach zero energy, zero carbon and healthy indoor air quality. AUROS Group's secret sauce lies in their proprietary integrated digital twin technology which demonstrates if a building is performing as it was designed and constructed to perform. Beth is co-author of the award-winning book, the Power of Existing Buildings and is certified in many building performance standards.
+Sessions: Wednesday, June 14, 2023 - 3:00 pm: Case Study: Mitigating the Financial Risk of Highly Sustainable Developments
+Wednesday, June 14, 2023 - 4:45 pm: The Journey Towards Net Zero: Strategies and Best Practices for Existing Buildings
+
+Name: Maureen Ehrenberg
+Title: President, Commercial Division
+Company: SMS Assist, a Lessen Company
+Description: Maureen Ehrenberg, FRICS, CRE, is co-founder and CEO of Blue Skyre IBE, a Colliers Strategic Partner. Her firm specializes in operationalizing ESG for real estate portfolios and digitizing property operations. Ehrenberg is an internationally recognized real estate industry business leader whose expertise lies in business process transformation, strategic positioning, and operations of large, complex portfolios. She led, repositioned and doubled the size of three leading global real estate facility outsourcing businesses. With more than 35 years of experience, she has deep expertise in providing companies with global real estate advice and services. Before founding Blue Skyre, Ehrenberg held global executive roles with WeWork, JLL, CBRE, and Grubb & Ellis.
+Sessions: Tuesday, June 13, 2023 - 1:35 pm: Setting and Actually Achieving Targets
+Tuesday, June 13, 2023 - 6:00 pm: Wrap-Up
+Wednesday, June 14, 2023 - 4:45 pm: The Journey Towards Net Zero: Strategies and Best Practices for Existing Buildings
+
+Name: Brian Ensign
+Title: VP , Marketing
+Company: Superior Essex Communications
+Description: 
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Solution Showcase
+
+Name: Jose Espinoza
+Title: SVP - IT Infrastructure & Operations
+Company: Alexandria Real Estate Equities
+Description: 
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Pushing Technology Forward: Younger Thought Leaders Weigh In
+
+Name: Bryan Evenson
+Title: Director of Product Development
+Company: Melink Corporation
+Description: Bryan Evenson is the Director of Product Development at Melink Corporation, an industry pioneer and leader in Demand Control Kitchen Ventilation (DCKV) systems.  Bryan has 25 years of embedded software and hardware design and development experience.  Bryan started his career with multiple contract engineering firms before transitioning to Melink 11 years ago.  Today, Bryan focuses on long-term planning and development for Intelli-Hood® to ensure it meets the needs of today’s smart buildings.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Test for Success: De-Risking Smart Building Tech Deployments
+
+Name: Jeff Ewing
+Title: VP, Security Operations
+Company: 5Q Partners
+Description: Jeff Ewing directs 5Q’s Security Operations and Architecture Services.  Throughout the first portion of his 25+ career, Jeff provided management consulting and technology advisory services to C-Level and IT Leadership across all real estate verticals.  As a trusted consultant, he has executed projects for clients around cloud transformation services, process automation, infrastructure design and data governance.  Since obtaining a CISSP in 2012, Jeff has been instrumental in cyber security solutions such as secure cloud applications development, maturity assessments and remediation, awareness training programs and the development of cyber security policies and procedures.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: From Juice Jacking to Ransomware: Cyber News You Can Use
+
+Name: Marlene Farias
+Title: SVP, National Operations Services Property & Asset Management
+Company: JLL Canada
+Description: 
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: The Gateway to an Enhanced Occupant Experience: Focus on Access Control and Lobby Technologies
+
+Name: Ilya Feldman
+Title: Director, Data & Analytics
+Company: Brookfield Properties
+Description: 
+Sessions: Thursday, June 15, 2023 - 11:30 am: Digital Twins: A Comprehensive Data Strategy for High Performance, Sustainable Buildings
+
+Name: Jacob Fenley
+Title: Area Market Leader
+Company: Cochrane Supply
+Description: 
+Sessions: Thursday, June 15, 2023 -: Artificial Intelligence in the Built Environment
+
+Name: Gabe Fierro
+Title: Assistant Professor, Computer Science
+Company: Colorado School of Mines / NRE
+Description: Gabe Fierro is an Assistant Professor of Computer Science at Colorado School of Mines, with a joint appointment at the National Renewable Energy Laboratory. Dr. Fierro works at the intersection of databases, cyberphysical systems, the Internet of Things, data modeling and semantic interoperability. He is a founder and the lead maintainer of Brick Schema, an open-source ontology and data model that defines a standard representation for smart building data.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: The New Age of “Open”: Paving the Road for Smart Building Data Interoperability
+
+Name: Talia Fine
+Title: SVP, IT
+Company: Tanger Outlets
+Description: Talia Fine is the SVP, Information Technology, responsible for the strategy and oversight of technology at Tanger Outlets. Prior to joining Tanger, Talia worked at Brookfield in both the office and retail sectors. She has over 15 years of experience in the real estate industry.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Automation (R)evolution: Strategies to Accelerate Business Transformation
+
+Name: Brett Fisher
+Title: Senior Manager, Real Estate Strategy & Sustainability
+Company: Deloitte
+Description: Brett Fisher is a Senior Manager in Deloitte Consulting’s Real Estate Strategy & Sustainability Practice. Brett is a real estate technologist, with a decade of experience in identifying and deploying innovative solutions to help clients manage their real estate portfolio. He leads some of Deloitte’s most complicated real estate technology implementations.
+Sessions: Thursday, June 15, 2023 - 11:30 am: PropTech and its Relationship with the Future of CRE: A VC Perspective
+
+Name: Greg Fitzpatrick
+Title: Business Development–IoT and Integration
+Company: Cochrane Supply
+Description: Greg Fitzpatrick is the Business Development Leader for IoT and Integration at Cochrane Supply and Engineering, where he supports end users, consulting engineers and systems integrators in the area of IoT, Integration and Enterprise Software. With over 25 years in the Building Systems and Controls business, he helps clients match new technology for Smart Buildings through specification writing, technology presentations and design assistance. Greg is also Executive Director for the Real Estate Cyber Consortium (RECC) focused on promoting cyber security awareness for operational technology.
+Sessions: Tuesday, June 13, 2023 - 8:00 am: Welcome
+Tuesday, June 13, 2023 - 9:55 am: Integrating Cyber into New Construction and Commissioning Across Asset Classes
+Tuesday, June 13, 2023 - 11:35 am: Wrap-Up
+Wednesday, June 14, 2023 - 5:00 pm: Indoor Environmental Quality (IEQ): Perspectives from the Front Lines
+Thursday, June 15, 2023 - 1:30 pm: OT Network Strategy and Configuration Workshop
+
+Name: John Fitzpatrick
+Title: Sr. Managing Director & CTO, Alternative Asset Management Technology
+Company: Blackstone
+Description: John Fitzpatrick is a Managing Director and Global Chief Technology Officer of Blackstone Real Estate within the Technology and Innovations group. He is responsible for all aspects of technology across Blackstone Real Estate and our portfolio companies and also oversees the Blackstone Innovations investment program, which seeks to unlock value for our LPs and the firm by taking stakes in targeted, early stage, technology-based investment opportunities.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Intelligent Automation: NextGen AI ChatBot Applications for Commercial Real Estate
+
+Name: Lionel Foster
+Title: Investor
+Company: Camber Creek
+Description: 
+Sessions: Thursday, June 15, 2023 - 11:30 am: PropTech and its Relationship with the Future of CRE: A VC Perspective
+
+Name: Ben Fuller
+Title: Business Development Manager
+Company: ABB
+Description: Ben Fuller is the Head of Sales for ABB Building Solutions in the U.S., a smart building technology business focused on Building Automation Systems, IoT Enabled Lighting, Security, Residential Home Automation and Digital Solutions.  Ben has spent more than 15 years in the smart buildings industry; collaborating with developers, property managers, consultants, and contractors to deliver market leading technology to some of the most advanced commercial buildings and residences in the world.  Prior to working in the private sector, Ben spent 8 years serving as an Officer in the U.S. Army, attaining the rank of Captain.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: IoT in Smart Buildings: Making Sense of Sensor Technology
+
+Name: Greg Gallimore
+Title: Studio Director, Digital Experience Design Leader, Principal
+Company: Gensler
+Description: Greg is a Studio Director in Gensler’s San Francisco office and Digital Experience Design Leader for the firm’s Northwest region. He specializes in developing experiential design projects focused on media and technology for the built environment. With over 20 years of experience, Greg works with clients to imagine what’s next in immersive art and technology to enable the newest and most advanced concepts for work, leisure, and learning environments.
+Sessions: Tuesday, June 13, 2023 - 3:25 pm: Innovating Experience: Experimentation is the Key
+
+Name: Charles Gans
+Title: Business Development
+Company: Johnson Controls
+Description: Charlie Gans is the Business Development Manager for the Johnson Controls, Inc. Healthy Buildings Team, focused on providing healthier and more sustainable environments for building occupants. He has over 25 years of experience in providing engineered air distribution, comfort and indoor air quality solutions across a broad range of markets.
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Data-Driven Approach for Managing Indoor Air Quality: Lessons Learned from K-6 School Programs
+
+Name: Chase Garbarino
+Title: Co-Founder and CEO
+Company: HqO
+Description: Chase Garbarino is co-founder and CEO of HqO, the leading tenant experience software platform for landlords. Prior to HqO, Chase was co-founder and CEO of AmericanInno (formerly Streetwise Media) where he helped build a local media network for the innovation economies in over a dozen cities in the US. The company was purchased in 2012 by ACBJ.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Real Discussions: Leadership in a Rapidly Changing Environment
+
+Name: Nick Gayeski
+Title: CEO
+Company: Clockworks Analytics
+Description: 
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Indoor Environmental Quality (IEQ): Perspectives from the Front Lines
+
+Name: Dan Gelman
+Title: Founder
+Company: 2430 Group
+Description: 
+Sessions: Tuesday, June 13, 2023 - 8:10 am: Understanding the Growing Scope of the Nation State Cyber Threat
+
+Name: Damien Georges
+Title: SVP, Sales
+Company: RealPage
+Description: Damien Georges is globally recognized as an expert in technology and operations for real estate investors with a career-long focus on solving the industry’s inherent data problem. As SVP of Sales, Damien is responsible for business development focused on RealPage’s Investment Management customers. Previously, Damien was SVP and GM Investment Management at RealPage, Founder and CEO of CRE-GE acquired by RealPage, Founder and CEO of Hipercept acquired by RealPage, Founder of FUEL acquired by RealPage, Founder of Voyanta acquired by Altus and Director of Product Management at Resolve acquired by CoStar.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Eutopia Investment Management (EIM): Consultation Workshop / Luncheon
+Wednesday, June 14, 2023 - 2:45 pm: Investment Management: Market Volatility from the Technology Perspective
+
+Name: Susan Gerock
+Title: SVP, IT & CIO
+Company: Elme Communities
+Description: Susan Gerock currently serves as SVP, Information Technology and CIO for Elme Communities, formerly known as WashREIT. She has over 25 years' experience in various technology roles spanning manufacturing, consulting, application service provider and commercial real estate organizations. Her specialties include ERP selection and implementation, project and change management, and cybersecurity. She is also a proponent of the use of social media and the overlapping relationship between technology and marketing.
+Sessions: Wednesday, June 14, 2023 - 7:30 am: Inaugural Allies Breaking Barriers Sunrise Session
+Thursday, June 15, 2023 - 12:30 pm: Applying Tech and Innovation to Define, Implement and Accelerate Your DEIB Strategy
+
+Name: Zander Geronimos
+Title: Head of Strategic Partnerships and Business Development
+Company: MetaProp
+Description: As the Head of Strategic Partnerships and Business Development for MetaProp, Zander Geronimos leads relationships and communications with key players across the real estate value chain and acts as a conduit between strategic real estate firms and the emerging PropTech community.
+Sessions: Thursday, June 15, 2023 - 11:30 am: PropTech and its Relationship with the Future of CRE: A VC Perspective
+
+Name: Luke Getto
+Title: Director of Product Management
+Company: VoltServer
+Description: Luke Getto is the Director of Product Management and Marketing at VoltServer, a startup disrupting the energy sector with its patented Digital Electricity™. His professional experience includes design engineering, project management, product management, and senior leadership positions. He has worked on wireless communications from GPS satellites to terrestrial wireless networks.  Luke is passionate about transitioning electrical power infrastructure that is safer, more resilient and based on renewable energy.
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Solution Showcase
+
+Name: Jason Gheradini
+Title: SVP, IT
+Company: Sares-Regis Group
+Description: Jason Gheradini is currently SVP, IT at Sares-Regis, a preeminent developer and provider of comprehensive commercial and residential real estate services throughout the western United States. He provides all aspects of  IT leadership from business strategy, infrastructure operations and support to overseeing innovation and emerging technology. Jason  has over 15 years of experience in commercial and multi-family real estate, construction and the software industry.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Automation (R)evolution: Strategies to Accelerate Business Transformation
+
+Name: Patrick Ghilani
+Title: CEO
+Company: MRI Software
+Description: Patrick Ghilani is the Chief Executive Officer of MRI Software, he has spearheaded productivity and client experience improvements while leading all client operations, including Professional Services, Client Support, and SaaS hosting. Patrick has led corporate growth initiatives targeting both geographic and innovative product expansion. With over 20 years of experience in the enterprise application arena, he has successfully managed both the strategy and operations of sizeable technology product and services organizations, serving multiple global industries, including over 10 years in the Commercial and Multi-Family Real Estate verticals.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: View from the Top: Industry Tech Giants Speak on the State of the Industry
+Thursday, June 15, 2023 - 12:30 pm: Applying Tech and Innovation to Define, Implement and Accelerate Your DEIB Strategy
+
+Name: Amanda Gibb
+Title: CTIO
+Company: Bedrock Detroit
+Description: Amanda Gibb has over 17 years’ experience in the commercial real estate space, leading technology teams for the past 10 years at Westfield, Starwood Retail, JLL, and now Bedrock in Detroit, MI.  At Bedrock, Amanda works to deploy a fit-for-purpose application tech stack for the vertically integrated real estate company, including M&A, property management, leasing, development, construction, marketing, HR, legal, and accounting, across all asset types and classes.  As CTIO she leads multiple technology teams, including Infrastructure, Applications, Building Controls, Data & Analytics, and Help Desk, working closely with the CTO and Innovation teams.  The teams focus on projects that improve operational efficiency, cost savings, tenant experience, innovation, and data quality/insights.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Enterprise Architecture: The Informational Framework for Driving Digital Transformation
+
+Name: Josh Gibbins
+Title: Team Lead, Building Systems Engineers
+Company: RYCOM
+Description: Josh Gibbins is the Team Lead for Building Systems Engineers at RYCOM, a group primarily composed of mechanical engineers that operates within the Data Intelligence department. This team provides a managed Fault Detection and Diagnostics (FDD) service. In his role, Josh is responsible for providing technical direction of service delivery, as well as mentorship to the team. Josh's career began as a mechanical engineer in building services and transitioned into providing energy and carbon studies of complex building systems. During this period, he became interested in data and open source software and introduced a number of alternative approaches to how work was being accomplished.
+Sessions: Thursday, June 15, 2023 - 11:30 am: Open Source to Cloud: Fast, Cheap and Secure Access to Smart Building Data
+
+Name: Christopher Gilene
+Title: Global Head of Technology and Innovation
+Company: Affinius Capital
+Description: 
+Sessions: Tuesday, June 13, 2023 - 2:25 pm: The Technology Evolution and Digital Transformation of Affinius Capital
+Wednesday, June 14, 2023 - 12:00 pm: Enterprise Architecture: The Informational Framework for Driving Digital Transformation
+
+Name: Jessie Godinho
+Title: Global Security, Head of Protective Design
+Company: Meta
+Description: Jessie Godinho is part of Meta’s Global Services Systems and Technology team within the Facilities, Culinary and Security (FCS) organization. She has led numerous initiatives aimed at developing security and technology solutions that enhance the safety and efficiency of Meta’s physical spaces, with a specific focus on integration with the built environment. Jessie also bridges the gap between technical teams, designers, and stakeholders to ensure alignment with organizational goals and customer expectations.  Jessie is passionate about building solutions, standards and programs that are innovative, efficient, data-driven, and that can easily scale across a diverse global portfolio.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Three Years Post Pandemic: How is Big Tech Addressing Occupancy and Utilization Data?
+
+Name: Ilene Goldfine
+Title: SVP, Chief Digital Strategy Officer
+Company: Hines
+Description: Ilene Goldfine is the Chief Digital Strategy Officer for Hines. She oversees the Global Digital Strategy Office, which uses technology and data to empower Hines employees, engage clients and partners, optimize operations and continuously transform our products and services. Previously she served as head of the Business Technology Group after having worked on several of the firm’s investment funds and in the financial/accounting functions across the firm.
+Sessions: Tuesday, June 13, 2023 - 2:30 pm: Hines Carbon Impact Assessment
+Tuesday, June 13, 2023 - 3:45 pm: Collecting and Managing the Data: The Good, the Bad and the Ugly
+Wednesday, June 14, 2023 - 7:30 am: Inaugural Allies Breaking Barriers Sunrise Session
+Wednesday, June 14, 2023 - 1:00 pm: Real Discussions: Leadership in a Rapidly Changing Environment
+Wednesday, June 14, 2023 - 2:00 pm: Does Diversity Drive Innovation? Or Is It the Other Way Around?
+
+Name: Don Goldstein
+Title: CEO
+Company: 5Q Partners
+Description: As CEO, Don Goldstein is responsible for the overall leadership, operations, cyber security strategy, and direction of 5Q’s four service lines. He is an accomplished, award winning C-Level technology executive as Global CIO and CISO, with a distinguished 37-year career of providing robust technology and cyber security solutions to enable business growth. He possesses over 22 years of commercial real estate experience across all lines of business with the largest commercial real estate services, investment management and development company in the world.
+Sessions: Tuesday, June 13, 2023 - 8:50 am: Cyber IT vs. OT Boundaries: Applying IT Standards to OT
+
+Name: Luis Gonzalez
+Title: Managing Partner
+Company: Aspen Venue Partners
+Description: Luis is a Co-Founder and Managing Partner of Aspen Venues, an advisory firm acting exclusively as Owner’s representatives for the planning, design, procurement and administration of complex telecom infrastructure for Commercial Real Estate and Professional and Collegiate sports clients. Luis has over 25 years’ experience leading business and technical organizations in the delivery of complex, secure solutions in the financial services and telecommunications industries.
+Sessions: Tuesday, June 13, 2023 - 4:25 pm: Defining, Designing, Deploying and Managing Your In-Building Wireless Strategy
+
+Name: Mike Goodwin
+Title: CTO
+Company: Stockbridge Capital Group
+Description: Mike Goodwin is Stockbridge's CTO. He oversees information technology, information security and cybersecurity for the firm. He has a combined 18 years in the industry across different operational functions.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Investment Management & Best Practices Case Study Session
+
+Name: Jim Gordon
+Title: Real Estate Director
+Company: Calgary Co-operative
+Description: 
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: A Case Study for Modern Cloud-Native Platforms: Driving Innovation with No-Code Development
+
+Name: Fred Gordy
+Title: Director, OT Risk Assessment
+Company: Michael Baker International
+Description: 
+Sessions: Tuesday, June 13, 2023 - 9:55 am: Integrating Cyber into New Construction and Commissioning Across Asset Classes
+
+Name: Vibha Gore
+Title: Partner and President, North America
+Company: Relata
+Description: Vibha Gore is very passionate about empowering real estate with technology. For the last 9+ years, she has spearheaded multiple PropTech initiatives for real estate developers, owners and operators, and real estate services companies for MPCs, office, industrial and retail asset types. Vibha has almost 30 years of proven track record of successfully rolling out many technology initiatives and products, from concept to execution in various entrepreneurial, consulting and corporate roles. She is the first person who is opening doors for Relata in an international market, developing vision, roadmap, and strategy to play globally.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Ben Grippi
+Title: Senior Director, Strategic Real Estate Technology
+Company: The RMR Group
+Description: 
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Integrating New Tech Tools into the Business Environment: How to Ensure Adoption
+
+Name: Margaret Guelzow
+Title: Head of Customer Experience
+Company: Cherre
+Description: Margaret Guelzow is passionate about the intersection of data, enabling technologies, business process and people's behavior through the lens of occupiers, investors and tenants of real estate. She has 20 years' experience in real estate data, technology and operations with a demonstrated ability to scale divisions, drive agility and optimize operational performance while delivering on business growth and cost-savings objectives.  Currently thriving at Cherre, with previous experience including CBRE and WeWork.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Integrating New Tech Tools into the Business Environment: How to Ensure Adoption
+
+Name: Arv Gupta
+Title: SVP, National Operations
+Company: Cadillac Fairview
+Description: Arv Gupta is an Operating Executive with extensive General Management background in Retail /Consumer Products and Services, known for building and transforming organizations to drive significant sales growth and value. Accomplished in leading business units within multiple consumer industry sectors, including iconic consumer brands, driving "turnaround" performance, by gaining organizational commitment for revitalized business directions. Arv is currently the Senior Vice President of Operations Services, at Cadillac Fairview Corporation, with a mandate to drive national operational efficiency and effectiveness, while maintaining a standard of excellence in client experience across all properties.
+Sessions: Wednesday, June 14, 2023 -: Realcomm | IBcon Chairs Weigh In: Unpacking Today’s Top PropTech Issues & Topics
+
+Name: Jeff Guy
+Title: VP, Construction
+Company: Petra Development
+Description: Jeff Guy is an accomplished professional in the field of construction and development. As the Vice President of Construction at Petra Development, he holds responsibility for managing the design, construction management, and general contracting functions across the firm’s portfolio, where his current focus is on pre-fabricated, panelized affordable housing and mass timber projects across multiple-use types. With a background encompassing development and construction delivery, Jeff has completed 3.5M square feet across several product types, including museums, hotels, multifamily residential, commercial office, and corporate interiors.
+Sessions: Tuesday, June 13, 2023 - 3:50 pm: Technology's Role in Decarbonization
+
+Name: Gerry Hamilton
+Title: Director, Facilities Energy Management
+Company: Stanford University
+Description: As a key member of Stanford University’s Sustainability and Energy Management (SEM) team, Gerry  Hamilton oversees the department’s long-term energy use planning; designs, implements, and directs assessment and outreach for sustainability programs; oversees business systems and analytics initiatives; and steers academic integration to aid program implementation.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: An Independent Data Layer Strategy: What Does Independent Really Mean?
+Wednesday, June 14, 2023 - 3:15 pm: Data Governance: Building an Effective Framework
+
+Name: James Harkness
+Title: Sr. Director
+Company: Altus Group
+Description: 
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Eutopia Investment Management (EIM): Consultation Workshop / Luncheon
+
+Name: Keith Hartley
+Title: VP, Business Technology Group
+Company: Harrison Street
+Description: Keith Hartley is currently the global lead of technology enablement and operations at Harrison Street, a leading investment management firm focused on alternative real assets. He leads a team that helps innovate and grow the organization through technology transformation with strategic partnerships across the business.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Integrating New Tech Tools into the Business Environment: How to Ensure Adoption
+
+Name: Adam Hastings
+Title: Chief Data Officer
+Company: Hines
+Description: Adam Hastings is Managing Director at Hines and currently focuses on designing and building a centralized enterprise data warehouse for the firm which captures data across all points of the asset life cycle, combining the information from all our lines of business. Previously, his focus was on the collection and analysis of performance information for the company's global fiduciary portfolio.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Enterprise Architecture: The Informational Framework for Driving Digital Transformation
+Wednesday, June 14, 2023 - 1:45 pm: Investment Management Data Integration and Advanced Analytics
+
+Name: Gregg Haverstick
+Title: Enterprise Managing Consultant
+Company: RealFoundations
+Description: Gregg Haverstick is an Enterprise Managing Consultant with RealFoundations. With more than 20 years of real estate management and consulting background, Gregg has a deep understanding of multi-sector operations, real estate enterprise strategy and industry-leading technologies. Over the course of his career, he has leveraged this knowledge to strengthen the operating platforms of many prominent commercial, retail and multifamily owner/operators, and developers.
+Sessions: Tuesday, June 13, 2023 - 2:25 pm: The Technology Evolution and Digital Transformation of Affinius Capital
+
+Name: Mark Hernandez
+Title: Professor, Environmental Engineering
+Company: University of Colorado at Boulder
+Description: During his 28 years on the University of Colorado’s engineering faculty, Dr. Mark Hernandez he has authored over 110 archival publications and holds 8 patents - many of which are licensed to the tech sector.  He has recently served on four US National Academy of Science Committees, focusing on next generation bioterrorism research,  the microbiology of the indoor environments and disease transmission in urban settings and slums
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Data-Driven Approach for Managing Indoor Air Quality: Lessons Learned from K-6 School Programs
+
+Name: Brian Higgins
+Title: CEO
+Company: Aditum
+Description: Brian Higgins is founder and CEO of Aditum, a Norwalk, Connecticut-based technology company focused on revolutionizing how the real estate industry connects to the Internet. Leading the business from its inception, Aditum’s broadband platform enables building owners to provide enhanced services to their tenants in the form of competitive, high-quality broadband, capable of achieving speeds of up to 10 gigabit of internet service – while generating revenue for the property.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Edward Hinchey
+Title: Senior Director, Technology
+Company: Fisher Brothers
+Description: Edward M. Hinchey Jr. joined Fisher Brothers in 2021 as Senior Director of Technology, a role in which he provides direction on strategic solutions and leadership to address current and emerging challenges and capitalize on technological opportunities. Fisher Brothers is an owner, developer and financer with a robust portfolio across the United States. Fisher Brothers currently owns and operates 7.5 million SF of commercial, over 1 million SF residential and 200,000 SF of experiential retail assets in New York City, Washington, DC, Las Vegas, Miami and Orlando. Lionheart, an asset management affiliate of Fisher Brothers, operates in 11 cities.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: An Independent Data Layer Strategy: What Does Independent Really Mean?
+
+Name: Tyrone Hodge
+Title: Global Head Risk Advisory, Value and Risk Advisory
+Company: JLL
+Description: With a passion for Property and Technology that spans over 30 years, Tyrone embraces change and disruption to create better solutions for clients.  As the Global Head of Risk Advisory, he is responsible for developing and maintaining traditional valuation products as well as driving change through the adoption of new technology within the firm and for clients that impact asset values now and into the future.
+Sessions: Wednesday, June 14, 2023 - 2:45 pm: Investment Management: Market Volatility from the Technology Perspective
+
+Name: Ira Horowitz
+Title: Chief Revenue Officer
+Company: MHT
+Description: Ira Horowitz serves as the Chief Revenue Officer of MHT Technologies, where he oversees the global growth of the company’s Inspextor™ PoE building automation platform. With a depth of expertise in team building and sales execution, he brings almost 20 years of management experience and 25 years of sales experience to MHT.
+Sessions: Tuesday, June 13, 2023 - 2:30 pm: The Emerging Low Voltage Ecosystem:  AC vs. DC - Building the Business Case
+
+Name: Ali Hoss
+Title: Chief Sustainability Officer
+Company: Triovest
+Description: Ali Hoss is Triovest’s Chief Sustainability Officer responsible for advancing ESG performance and innovation for a portfolio of $12B of commercial properties. He has over 20 years of work experience in sustainability and energy management and is regarded as a strategic builder of unique products and services for design and implementation of energy conservation and GHG emission mitigation projects.
+Sessions: Tuesday, June 13, 2023 - 3:45 pm: Collecting and Managing the Data: The Good, the Bad and the Ugly
+Wednesday, June 14, 2023 - 4:45 pm: The Journey Towards Net Zero: Strategies and Best Practices for Existing Buildings
+
+Name: Tama Huang
+Title: Strategic Advisor
+Company: Cherre
+Description: 
+Sessions: Wednesday, June 14, 2023 - 7:30 am: Inaugural Allies Breaking Barriers Sunrise Session
+Wednesday, June 14, 2023 - 2:00 pm: Does Diversity Drive Innovation? Or Is It the Other Way Around?
+
+Name: Wade Hughes
+Title: Managing Partner
+Company: 5Q Partners
+Description: 
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Real Discussions: Leadership in a Rapidly Changing Environment
+
+Name: Lisa Isaacson
+Title: Sr Fields Application Engineer
+Company: Mecho
+Description: Lisa has been a pioneer in the Power-over-Ethernet Lighting Space. She is Co-founder of NuLEDs, the company that developed and introduced the first network-controlled PoE lighting system. Her background includes over 35 years in the electrical industry as an electrician, contractor and lighting specialist. In 2022 her company was acquired by Springs Window Fashions, and she is proud to be part of the MechoShade team!
+Sessions: Tuesday, June 13, 2023 - 1:55 pm: Low Voltage 101
+
+Name: Lou Jacobsohn
+Title: Director, Enterprise Sales
+Company: Juniper Square
+Description: 
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Eutopia Investment Management (EIM): Consultation Workshop / Luncheon
+
+Name: Karen Jalon
+Title: VP, Sustainability, Energy, Smart Technology
+Company: Cadillac Fairview
+Description: 
+Sessions: Tuesday, June 13, 2023 - 3:45 pm: Collecting and Managing the Data: The Good, the Bad and the Ugly
+
+Name: Todd Januzzi
+Title: SVP & CIO
+Company: Paramount Group
+Description: Todd Januzzi is SVP & CIO of Paramount Group, a best-in-class owner, operator and manager of Class A office properties.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: The Gateway to an Enhanced Occupant Experience: Focus on Access Control and Lobby Technologies
+
+Name: McKinlay Jeannis
+Title: Technology, Data & Innovation Global Portfolio Manager
+Company: CBRE
+Description: McKinlay Jeannis is the Global Technology, Data & Innovation Portfolio Manager at CBRE for Google.  His knowledge, experience and expertise focuses on effective portfolio management, strategic planning, consulting, marketing and innovation management.  McKinlay leads and develops teams that add value to challenging business environments.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Integrating New Tech Tools into the Business Environment: How to Ensure Adoption
+
+Name: Jess Johnson
+Title: Global Head of Enterprise Partnerships
+Company: HqO
+Description: Jess is a commercial real estate leader whose 17 years in the industry have spanned roles in strategic consulting, technology, data and analytics, business development and marketing. Jess is currently the Global Head of Enterprise Partnerships at HqO, the workplace experience platform that helps connect real estate and people. Before joining HqO, Jess led technology and portfolio strategy practices serving corporate tenants at Savills, a London-based real estate services firm, where he spearheaded 3x the growth of the firm's advisory practice and leveraged technology offerings to win new clients and drive innovation.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Focusing on Workplace: Digital Platforms to Streamline and Enhance Experience
+
+Name: Kim Johnson
+Title: CMO
+Company: MHT Technologies
+Description: 
+Sessions: Tuesday, June 13, 2023 - 2:30 pm: The Emerging Low Voltage Ecosystem:  AC vs. DC - Building the Business Case
+Tuesday, June 13, 2023 - 4:30 pm: Industry Challenges and Opportunities
+Tuesday, June 13, 2023 - 5:00 pm: Solution Showcase
+Tuesday, June 13, 2023 - 5:55 pm: Wrap-Up and Next Steps
+Wednesday, June 14, 2023 - 4:00 pm: Low-Voltage Buildings: The Holy Grail?
+
+Name: Arjun Kaicker
+Title: Co-Head, Analytics + Insights
+Company: Zaha Hadid Architects
+Description: Arjun Kaicker is an Architect and Workplace Consultant with over 20 years experience specialising in innovative workplace design and technology, business and user needs evaluation and most recently, AI driven workplace optimisation. As Co-Head of Workplace Strategies at Zaha Hadid Architects and previously as Head of Workplace Consulting at Foster + Partners, he has worked on over 200 office projects in over 50 countries, including headquarters for Apple, Bloomberg, Comcast and HSBC.
+Sessions: Tuesday, June 13, 2023 - 3:45 pm: Focus on Collaboration and Individual Productivity
+Wednesday, June 14, 2023 - 1:00 pm: Focusing on Workplace: Digital Platforms to Streamline and Enhance Experience
+
+Name: Sheeladitya Karmakar
+Title: Director Offering Management, HCB
+Company: Honeywell
+Description: 
+Sessions: Tuesday, June 13, 2023 - 3:15 pm: Industry Powerhouses Weigh-In on Climate Challenge in the Built Environment
+
+Name: Thomas Kaufman
+Title: Associate Vice President, Corporate Real Estate
+Company: United Therapeutics
+Description: Thomas Kaufman is the Senior Director, Corporate Real Estate at United Therapeutics, a biotechnology company focused on the development and commercialization of innovative products to address the unmet medical needs of patients with chronic and life-threatening diseases. He is responsible for managing the entitlement, design and construction of the company’s new headquarters, the largest commercial site-net zero building on the East Coast.
+Sessions: Tuesday, June 13, 2023 - 5:20 pm: Incorporating an Embodied Carbon Strategy
+
+Name: Bart Kelly
+Title: Corporate Sales Manager
+Company: Lumencache
+Description: With a career spanning over 12 years, Bart has built a reputation for utilizing innovative technology to fulfill the dreams of home builders and buyers. As the Corporate Sales Manager at LumenCache, he has spearheaded initiatives to make homes and buildings smart from the start. Bart also serves as the Outside Sales Manager for SunFarm Energy, Northwest Florida's Certified Tesla Solar Roof Installation partner. He is dedicated to fundamentally changing people’s relationship to energy, working hard to create a more affordable, intelligent, and sustainable built environment.
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Solution Showcase
+
+Name: Andy Kemp
+Title: Financial Service Industries, Strategic Engagement
+Company: HPE
+Description: 
+Sessions: Thursday, June 15, 2023 - 12:30 pm: Understanding Nation State Technology Challenges and Threats!
+
+Name: Sineesh Keshav
+Title: Managing Director, CTO
+Company: Prologis
+Description: Sineesh Keshav is the Chief Technology Officer at Prologis. In this role, he oversees all aspects of the technology strategy and is responsible for leading the company’s global data and digital transformation. Since joining Prologis in 2018, Sineesh and his team have been focused on a capability driven, customer-centric approach to innovation and digitalization.
+Sessions: Tuesday, June 13, 2023 - 12:20 pm: What's Keeping You Up at Night?
+Wednesday, June 14, 2023 -: Realcomm | IBcon Chairs Weigh In: Unpacking Today’s Top PropTech Issues & Topics
+
+Name: Akram Khalis
+Title: CTO
+Company: MHT Technologies
+Description: Akram Khalis (AK) serves as MHT’s Chief Technology Officer and Co-Founder of MHT's Inspextor smart building platform. As an entrepreneurial executive who currently holds three US technology patents, AK's background in technology, product, and general management allows him to bridge the gap between engineers and businesses to bring high quality solutions to market efficiently. Well regarded as an innovator and thought leader for his work developing PoE systems for lighting and smart building automation, AK has scaled and accelerated the growth of innovative technology for more than a decade.
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Solution Showcase
+
+Name: Sarah Kindzerske
+Title: Director, Deal Advisory – Accounting Advisory Services
+Company: KPMG
+Description: 
+Sessions: Tuesday, June 13, 2023 - 4:40 pm: Legislation and SEC Regulations
+
+Name: Dennis Krieger
+Title: Director of Product
+Company: Clockworks Analytics
+Description: 
+Sessions: Tuesday, June 13, 2023 - 3:20 pm: Analytics and AI
+
+Name: Ken Kurz
+Title: VP, IT / CIO
+Company: COPT
+Description: Ken Kurz brings over 20 years of leadership and operational experience in cybersecurity, network technologies, information systems, risk mitigation and remediation, and technical project management to COPT.  Supporting COPT as CIO since 2016, he has prior experience as the CISO for the University of Delaware, CISO for the University of Oklahoma, and CIO for the US Naval Academy Alumni Association & Foundation. He has also held various technical and leadership positions within the Department of Defense.
+Sessions: Tuesday, June 13, 2023 - 8:10 am: Understanding the Growing Scope of the Nation State Cyber Threat
+Tuesday, June 13, 2023 - 4:40 pm: Cybersecurity for OT
+Wednesday, June 14, 2023 - 4:00 pm: Managing and Securing IoT Devices on the OT Network
+Thursday, June 15, 2023 - 12:30 pm: Understanding Nation State Technology Challenges and Threats!
+
+Name: Sabine Lam
+Title: Building Operating Systems (BOS) Global Lead
+Company: Google
+Description: Sabine Lam is the Building Operating Systems (BOS) Global Lead for Google's Real Estate and Workplace Services (REWS) organization. In this role, she focuses on bringing the connected building vision to the forefront of Google real estate and facilities operations teams and equips them to deliver next generation services and workspaces to enhance employee's security and productivity.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: Ensuring Complete and Accurate Building Data at Scale
+
+Name: Thano Lambrinos
+Title: SVP, Digital Buildings, Experiences & Innovation
+Company: QuadReal
+Description: Thano Lambrinos has over 15 years’ experience in the construction and building technologies space, and leverages digital transformation learnings across vertical markets to drive innovation and change in commercial real estate. At QuadReal, Thano works to deploy advanced technologies that redefine the way buildings are designed, built, managed, and how the occupants experience their environments. As Senior Vice President, he leads the Digital Buildings, Customer Experience & Innovation teams, and is focused on the development and execution of the digital strategy across a global real estate portfolio.
+Sessions: Tuesday, June 13, 2023 - 9:55 am: Integrating Cyber into New Construction and Commissioning Across Asset Classes
+Wednesday, June 14, 2023 - 1:00 pm: Navigating a Modern Digital Building Strategy: QuadReal’s Evolving Approach Raises the Bar
+Wednesday, June 14, 2023 - 5:00 pm: Diminishing the Impact of Technology Losses: Defining a "Start-Up Failure Proof" Strategy
+
+Name: Todd Landry
+Title: VP Applications & Innovation
+Company: JMA Wireless
+Description: 
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: The In-Building Wireless Lifecycle: From Spec to Implementation to Management Lifecycle
+Thursday, June 15, 2023 - 11:30 am: 5G, DAS / CBRS Deployments in Commercial Real Estate: Is the Technology Living Up to Expectations?
+
+Name: Donnie Law
+Title: CEO and Chief Software Architect
+Company: REMLogics
+Description: Donnie Law has over 29 years of experience in enterprise real estate management software development and best-practice implementations. His experience began at Walmart where he was responsible for the design and development of their architecture, construction and real estate system. Since then Donnie has developed and delivered REM and utility billing software solutions to customers around the world. As a thought leader, he is often sought out for advice and recommendations.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: View from the Top: Industry Tech Giants Speak on the State of the Industry
+Wednesday, June 14, 2023 - 3:15 pm: A Case Study for Modern Cloud-Native Platforms: Driving Innovation with No-Code Development
+
+Name: Aaron Lee
+Title: Sr. Systems Engineer, MDU
+Company: Commscope / Ruckus
+Description: Aaron Lee is Sr. Manager, Systems Engineering for Commscope/Ruckus with a focus on MDU and CRE. Aaron has 12+ years in technology industry in Commercial Enterprise, Education and Multifamily verticals. He has a deep understanding of the implementation and design of multiple technology stacks including IOT, WiFI, and CBRS. He previously served as Vice President of Product Strategy and Operations at WhiteSky Communications, where he managed engineering, support and operations.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: Making Sense of the Wireless Communication Infrastructure: The Role of WiFi
+
+Name: James Lee
+Title: President, CEO
+Company: Cimetrics
+Description: 
+Sessions: Tuesday, June 13, 2023 - 10:25 am: Should You Add BACnet/SC and Managed BACnet to Your Tech Stack?
+Tuesday, June 13, 2023 - 4:35 pm: BACnet SC: Proposed
+Thursday, June 15, 2023 - 12:30 pm: Data-as-a-Service: Benefits of Outsourcing Information Services in the Built Environment
+
+Name: Scott Lemoine
+Title: Lead ESG Advisor, North America
+Company: Measurabl
+Description: Scott Lemoine is the Lead ESG Advisor at Measurabl, overseeing the North American Advisory Services division. With over nine years of experience in sustainability and ESG strategy consulting, Scott has worked extensively with both public and private real estate owners and operators. His expertise spans the entire ESG program lifecycle, encompassing long-term strategy development, stakeholder engagement, building decarbonization, and reporting.
+Sessions: Tuesday, June 13, 2023 - 3:15 pm: Industry Powerhouses Weigh-In on Climate Challenge in the Built Environment
+
+Name: Renee Leonard
+Title: Senior Manager, Consulting Services
+Company: One11 Advisors (an Altus Group business)
+Description: Renee Leonard has over 15 years of experience and is a Senior Manager with One11 Advisors providing management consulting services to clients across the real estate industry.  Prior to joining One11 Advisors, Renee spent 7 years leading the investment accounting and reporting functions for a large property owner/operator.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Master Class in Successful Application Evaluations, Data Consolidations and Business Partnerships
+
+Name: Meghan Lerch
+Title: Director of Client Solutions
+Company: Altus Group
+Description: 
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: Data Governance: Building an Effective Framework
+
+Name: Turner Levison
+Title: Industry Principal
+Company: Yardi Systems
+Description: Turner Levison is focused on helping CRE occupiers leverage solutions from the Yardi Corom suite. He was the CEO and co-founder of CommissionTrac, a deal flow and commission management platform for CRE brokerages, which was acquired by Yardi in 2020.
+Sessions: Thursday, June 15, 2023 - 11:30 am: Ensuring Collaboration Equity: Best Practices for the Modern Hybrid Work Landscape
+
+Name: Spencer Levy
+Title: Head of Research
+Company: CBRE | Americas Research
+Description: Spencer Levy is Americas Head of Research for CBRE and a senior member of the company's global research team. He plays an integral role in the development and implementation of its strategy and business plan. An eight-year veteran of CBRE, Spencer  had previously served as Executive Managing Director in the company's Capital Markets division.
+Sessions: Wednesday, June 14, 2023 -: Navigating the Financial Stresses of the CRE Market, Economy and Impact on Innovation
+
+Name: Allison Lewis
+Title: Apprenticeship Program Manager
+Company: Emerging Technology Apprenticeships
+Description: Allison Lewis is Apprenticeship Program Manager at Emerging Technology Apprenticeships, a non profit school that connects young adults and other career-seekers to employers in the Critical Infrastructure operational technology industry such as building automation systems operations. She is an expert at connecting employers with agency funding sources that can help upskill, fill, retain employees and sustain their workforce development programs.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Acquisition, Retention and Development: Creating a Talent Strategy for Smart Building Professionals
+
+Name: Josh Lewis
+Title: VP Energy Engineering
+Company: Nerva Energy Group
+Description: Josh Lewis, CEM, CMVP, is the VP Energy Engineering at Nerva Energy Group, an award-winning energy advisory firm and specialty contractor providing smart building optimization by leveraging niche expertise with leading IoT technologies to ensure buildings function more intuitively and efficiently, creating energy earning & carbon reduction opportunities, and fostering a positive impact on occupancy, quality of life and the overall environment. Josh is an award-winning leader in the energy sector. He is a cutting-edge business development strategist with a wide knowledge base in green buildings, energy conservation, carbon reduction and environmental sustainability.
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Data-Driven Approach for Managing Indoor Air Quality: Lessons Learned from K-6 School Programs
+
+Name: Cecilia Li
+Title: SVP, CIO
+Company: Urban Edge Properties
+Description: Cecilia Li has more than 20 years of experience as a proven technology strategist and business transformation expert. She is currently the SVP, CIO of Urban Edge Properties, a REIT that focused on management, acquiring, development and redevelopment of retail real estate in urban communities. Urban Edge owns 77 properties totaling 16.2 million square feet of gross leasable area.
+Sessions: Tuesday, June 13, 2023 - 10:45 am: Training Our Next Generation of Cyber Professionals
+Tuesday, June 13, 2023 - 1:05 pm: Cybersecurity Maturity Journey of a REIT
+Wednesday, June 14, 2023 - 7:30 am: Inaugural Allies Breaking Barriers Sunrise Session
+Wednesday, June 14, 2023 - 12:00 pm: Integrating New Tech Tools into the Business Environment: How to Ensure Adoption
+Wednesday, June 14, 2023 - 5:00 pm: From Juice Jacking to Ransomware: Cyber News You Can Use
+
+Name: Robert Lieberman
+Title: Executive Director
+Company: One11 Advisors (an Altus Group business)
+Description: Bob Lieberman is the Executive Director of One11 Advisors and a Strategic Client Partner of Altus Group. Over the last 30+ years, Bob has held senior technology roles and advised many CRE companies on Business Strategy, Business Transformation, Process Optimization, System Implementations, Financial Reporting and Analytics.  Altus Group is a leader in Asset and Fund Intelligence for the Commercial Real Estate Industry with over 50 global offices and 2700 associates Worldwide.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Master Class in Successful Application Evaluations, Data Consolidations and Business Partnerships
+
+Name: Joel Lindholm
+Title: CEO/Co-founder
+Company: InfiniG
+Description: Joel Lindholm is Co-Founder and CEO of InfiniG. He has over 25 years of experience in Enterprise and Mobile networking including leadership positions with infrastructure providers Brocade and Ruckus Wireless (CBRS Alliance co-founder); and Head of TechOps Innovation at Meta (Facebook). His journey has provided a unique background in strategy, technologies, markets, verticals, innovation, growth, and scale. For the last 7 years, he has focused on OnGo/CBRS Shared Spectrum in the US, including its use for Private Networks, Neutral Host and wireless networking for various industries.
+Sessions: Tuesday, June 13, 2023 - 3:40 pm: 5G / CBRS and Private Networks: Hype vs. Reality
+
+Name: Bayron Lopez Pineda
+Title: Director, Operational Technology
+Company: Kilroy Realty
+Description: Bayron Lopez is the Director, Operational Technology responsible for managing and innovating Kilroy Realty's smart buildings systems. He helps determine policies and processes from security to maintenance and growth to increase building efficiency and tenant experience. Kilroy is a leading West Coast landlord and developer globally recognized for sustainability, building operations, innovation and design.
+Sessions: Tuesday, June 13, 2023 - 9:25 am: Keeping Cyber Relevant in Challenging Economic Times
+Tuesday, June 13, 2023 - 10:45 am: Training Our Next Generation of Cyber Professionals
+Tuesday, June 13, 2023 - 3:00 pm: Alumni Stories
+Wednesday, June 14, 2023 - 4:00 pm: Pushing Technology Forward: Younger Thought Leaders Weigh In
+
+Name: Bobby Louissaint
+Title: Head of Technical Partnership Engagement
+Company: Meta
+Description: Bobby Louissaint is a dynamic leader and visionary in the field of security technology, currently serving as the global Head of Technical Partnership Engagement within Meta's global shared services and technology team. With a solid foundation in technical solution delivery, Bobby's career has progressed to establish him as a thought leader, shaping the future of the security industry, and now building technologies.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Three Years Post Pandemic: How is Big Tech Addressing Occupancy and Utilization Data?
+
+Name: Jason Lund
+Title: Leader Technology Infrastructure
+Company: JLL
+Description: 
+Sessions: Thursday, June 15, 2023 - 12:30 pm: Making Sense of the Wireless Communication Infrastructure: The Role of WiFi
+
+Name: Nathan Lyon
+Title: Head of Building Technology
+Company: Investa Property Group
+Description: Nathan Lyon is the Head of Building Technology for Investa, Australia's largest commercial office specialists who develop, manage and own over 11 billion of commercial office assets. He is responsible for technology strategies for  new and existing assets, delivery and implementation of solutions enhancing the  building  occupants' experience  and  increase  the  performance and flexibility  of  the  built  environment across Investa’s  portfolio. Nathan has 15 years' CRE experience in both operations and development.
+Sessions: Thursday, June 15, 2023 - 11:30 am: Digital Twins: A Comprehensive Data Strategy for High Performance, Sustainable Buildings
+
+Name: Michael MacMahon
+Title: Intelligent Buildings Consultant
+Company: Newcomb & Boyd
+Description: As an information technology leader, Michael MacMahon has more than 18 years of experience pioneering and managing complex IT solutions. Through a history of collaboration with Fortune 500 companies, he is accomplished in providing technology consulting, training, strategic fiscal planning, and implementation.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Managing and Securing IoT Devices on the OT Network
+
+Name: Roxette Mancero Sanchez
+Title: Sr. Channel Account Manager
+Company: Tridium
+Description: Roxette Mancero Sanchez has been in the BAS/HVAC industry for a decade starting in distribution of HVAC and BAS to now sales for the software manufacturer Tridium. Roxette is also a participant in her local community college advisory board for HVAC, and has had the opportunity to be present in TEMA & ASHRAE events.
+Sessions: Tuesday, June 13, 2023 - 1:45 pm: SI vs. MSI: The Evolving Role of the System Integrator
+
+Name: Hazel Mann
+Title: Principal Advisor
+Company: Zetta Advisory
+Description: Hazel Mann is principal for Zetta Advisory, an organization that help real estate investment management firms transform with practical technology solutions. She is an entrepreneur with over 15 years of experience in real estate operations and technology, specializing in translating emerging technologies such as AI, blockchain and IoT for practical applications in the future of work.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Intelligent Automation: NextGen AI ChatBot Applications for Commercial Real Estate
+
+Name: Chris Manna
+Title: Senior Solution Architect
+Company: Willow
+Description: Chris is an experienced engineer and solution architect focused on the convergence of physical and digital solutions across a variety of industries.  He has extensive experience helping clients innovate and overcome challenges relating to intelligent buildings, IoT, sustainability, digital transformation, and smart connected products.
+Chris is currently Willow’s lead solution architect helping clients understand and deploy digital twins across their built assets.
+Sessions: Tuesday, June 13, 2023 - 4:45 pm: Tech Showcase | Digital Twin Demo: Willow
+Thursday, June 15, 2023 - 11:30 am: Digital Twins: A Comprehensive Data Strategy for High Performance, Sustainable Buildings
+
+Name: Cindi Marsiglio
+Title: SVP, Corporate Real Estate
+Company: Walmart
+Description: Cindi Marsiglio is Walmart’s Senior Vice President of Corporate Real Estate. She is responsible for leading the overall strategic and operational integration for the design and construction of the new Walmart Home Office located in Bentonville, Arkansas. The future campus will enable Walmart to build for the future, attract new talent and empower associates with an enhanced workplace experience. She also oversees the management of Walmart’s corporate workplace portfolio consisting of approximately six million square feet and associated amenities across the United States, including hubs in California, New Jersey and Texas.
+Sessions: Thursday, June 15, 2023 -: Setting New Global Standards: Exploring Walmart’s Campus of the Future
+
+Name: Lewis Martin
+Title: Director
+Company: LMC Smart Talent Solutions
+Description: 
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Acquisition, Retention and Development: Creating a Talent Strategy for Smart Building Professionals
+
+Name: Bill Masse
+Title: VP, Digital Building Projects
+Company: QuadReal
+Description: Bill Masse is the Vice President of Digital Building Projects at QuadReal Property Group. With 20+ years’ experience in building systems, construction, integration, and technology. Bill leads the execution of QuadReal’s global digital strategy. With a diverse set of technical and real estate expertise, he oversees the unification of the aspirational use-cases and desired business outcomes with a practical application and implementation of technology – turning the ideas into reality. Bill’s career has seen him go from being “on the tools,” to leading a technology integration firm, to being COO of a software company – which lends to his exceptional ability to navigate many different skillsets in an effort to digitally transform real estate.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Acquisition, Retention and Development: Creating a Talent Strategy for Smart Building Professionals
+
+Name: Mike Maxfield
+Title: VP, Business Technology
+Company: Brookfield Properties
+Description: 
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Turning Information into Intelligent Insights: Modern Analytics for Data-Driven Decisions
+
+Name: Paul Maximuk
+Title: Senior Intelligent Building Consultant
+Company: Newcomb & Boyd
+Description: Paul Maximuk is currently Senior Intelligent Building Consultant at Newcomb & Boyd. He has deep experience in building controls, commissioning, and intelligent buildings implementation. Previously worked at Ford Land where he managed smart building programs, innovation and construction projects. Paul is eager to apply his experience as an owner to help others on the path to Intelligent Buildings and successful Operation Technology projects.
+Sessions: Tuesday, June 13, 2023 - 2:45 pm: Smart Building Design with the End in Mind
+Thursday, June 15, 2023 - 12:30 pm: The Modern Building Operating System (BOS) Stack: OT Software and Hardware Rationalization
+
+Name: Phil McAndrews
+Title: Chief Strategy Officer, SEVP
+Company: RXR Realty
+Description: Philip J. McAndrews Jr. is Chief Strategy Officer at RXR. Phil is recognized as a transformational leader with extensive managerial and investment experience refining enterprise-level global real estate investment. At RXR, Phil works closely with the firm’s partners developing and executing corporate strategic initiatives and expanding the investment management offerings for both our stakeholders and clients. He is the only non-partner member of the RXR Investment Committee. Over the course of a 26-year career at TIAA (Nuveen), a $1.3 trillion financial service company headquartered in N.Y, Phil served in multiple leadership positions and guided the Global Real Estate platform through several meaningful pivot points and real estate cycles.
+Sessions: Wednesday, June 14, 2023 -: Navigating the Financial Stresses of the CRE Market, Economy and Impact on Innovation
+
+Name: James McHale
+Title: CEO & Founder
+Company: Memoori
+Description: James McHale is CEO & Founder of Memoori, an independent analyst company based in Stockholm providing market research, business intelligence and advice on Smart Building technologies.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: The New Age of “Open”: Paving the Road for Smart Building Data Interoperability
+
+Name: Joel McIntyre
+Title: Advisor
+Company: Tillman Digital Cities
+Description: Joel McIntyre is Chief Operating Officer of Tillman Digital Cities, a next generation connectivity solutions provider. He is responsible for all sales, marketing, and branding initiatives. Prior to joining TDC, Joel founded GiGstreem, the fastest growing ISP servicing multifamily and commercial real estate. Joel was also COO At BAI Connect, a regional ISP based in Los Angeles. He began his career in private equity, and over the last 15 years has invested in and/or operated cell towers, data centers, middle-mile fiber, last-mile wireless and fiber distribution, and subsea cables.
+Sessions: Tuesday, June 13, 2023 - 4:25 pm: Defining, Designing, Deploying and Managing Your In-Building Wireless Strategy
+
+Name: Steve McNelley
+Title: CEO
+Company: DVE Holographics
+Description: Dr. Steve McNelley is co-founder of DVEholographics.com which is a think tank serving the US government, corporations, and institutions of higher learning.  Throughout his career Steve has solved technical challenges that require a diverse set of skills. His patented innovations span numerous products in the visual communication market sector with core technology embedded in over 100 million consumer products. Steve is one of the early and now leading innovators in natural augmented reality (no head mounted display needed) and has been a go to source for industry perspective for leading publications.
+Sessions: Tuesday, June 13, 2023 - 4:05 pm: Collaboration Destinations: Breaking Down Spatial Barriers
+
+Name: Clare Meredith
+Title: Technology Program Manager
+Company: Google
+Description: Clare Meredith is a Technology Program Manager at Google whose primary focus is within the Digital Building space. She leads a process known as Device Qualification which ensures devices deployed on Google networks meet strict network and security requirements. Clare started her career in Real Estate in Facilities Management in 2010, before moving to CBRE in 2017 as a Project Coordinator for the Google Enterprise Network team. From late 2020 until just recently, she chaired the Building Controls Steering Committee for an Alliance, working alongside peers across industry to promote the importance of high standards in cyber security.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Test for Success: De-Risking Smart Building Tech Deployments
+
+Name: Ed Merwin
+Title: Dir. Strategic Business
+Company: Tridium
+Description: Ed Merwin has over 46 years of experience in the building automation industry in field operations, sales, marketing, and management. Ed is currently the Director of Strategic Business working with Tridium marketing, engineering, and sales teams to support Tridium’s long term business strategy in various markets. He also works with end users, owners, consultants, and system integrators daily to help understand the technology needs of these valued customers.
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: Smart Organizations to Drive Smarter Buildings
+
+Name: Morgan Miliusis
+Title: Manager
+Company: CohnReznick
+Description: Morgan Miliusis is a Manager on the Technology+ advisory team with CohnReznick. She started on the ground level as a multifamily leasing agent with Greystar and from there grew a passion for technology efficiencies and process improvements. She has spent the last 12 years consulting for real estate companies helping them create more efficient day to day operations. Morgan assists real estate companies in selecting, implementing, and enhancing their ERP system solutions, improving processes, and continuing to support clients as their business grows and needs change.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: Applying Tech and Innovation to Define, Implement and Accelerate Your DEIB Strategy
+
+Name: Dave Miller
+Title: Director of Business Development, North East & Mountain Regions
+Company: WiredScore
+Description: 
+Sessions: Tuesday, June 13, 2023 - 3:50 pm: Market Scoring and Certifications
+
+Name: Bryan Mitchell
+Title: Managing Director
+Company: Galway Sustainable Capital
+Description: Bryan Mitchell is Managing Director for Galway Sustainable Capital Inc ("GSC"), where he is responsible for originating, underwriting, and managing new and follow-on investment transactions with targeted sustainability businesses and projects with a focus on real estate and green buildings. Prior to joining GSC, Bryan was a Senior Advisor to $15B AUM Monroe Capital focusing on specialty finance businesses and opportunistic private credit transactions out of the NYC office. He also assisted GSC in securing the $265 million Oaktree Capital investment that was completed prior to his joining the firm in 2021.
+Sessions: Wednesday, June 14, 2023 - 3:00 pm: Case Study: Mitigating the Financial Risk of Highly Sustainable Developments
+
+Name: Scott Mitton
+Title: Director of Business Development, Technology
+Company: Plan Group
+Description: Scott Mitton is a collaborative 30-year IT veteran that has worked with clients globally to execute their business goals with the purposeful use of technology.  Scott transitioned into the construction industry 10 years ago to apply his IT knowledge and experience to the build space. He collaborates with executives and operations teams to ensure the technology is leveraged in such a manner to not only meet business and financial goals but to operate more efficiently while creating a unique and progressive user experience. His work truly supports the most important asset: the people who work or live in them.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: The Modern Building Operating System (BOS) Stack: OT Software and Hardware Rationalization
+
+Name: Sarah Monteleone
+Title: President
+Company: CGNA
+Description: 
+Sessions: Tuesday, June 13, 2023 - 1:40 pm: Controls Group North America
+
+Name: Caitlin Mooney
+Title: Director, Client Success
+Company: Nexus, Paymode-X
+Description: Caitlin Mooney is the Director of Client Success for Nexus Paymode-X. For over 5 years, she has managed the team responsible for creating and maintaining long-lasting and healthy relationships with our customers. She and her team evaluate and analyze client needs, and ensure they are maximizing usage of the Nexus AP automation and payments product.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: Modern AP Automation: Overcoming the Headaches
+
+Name: Aaron Morris
+Title: VP, National Operations Director
+Company: Michael Baker International
+Description: Aaron Moris is a Vice President and National Geospatial Lead for Michael Baker International.  He plays a significant role in fostering geospatial capabilities with local leadership and leverages his 26-years with the company to provide clients a broader portfolio of Michael Baker's geospatial services.  Aaron leads Michael Baker’s Indoor Mapping business and has been deploying remote sensing technology for 3D Indoor Mapping since 1999.  In addition to incubating Michael Baker's Mobile LiDAR Division from inception to the nation's leading service provider and expanding the fleet to include Pavement Management services, he serves as Treasurer and Executive Board member for the national MAPPS organization, and provides primary technical consulting expertise on various Geospatial, LiDAR, and Pavement projects for local, state, and federal governments.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Turning Information into Intelligent Insights: Modern Analytics for Data-Driven Decisions
+
+Name: Jon Morris
+Title: CEO
+Company: Ballast Networks
+Description: 
+Sessions: Tuesday, June 13, 2023 - 1:40 pm: Laying the Foundation: The Technical and Business Dynamics of Private Networks vs. DAS/Small Cells vs. WiFi
+Tuesday, June 13, 2023 - 4:25 pm: Defining, Designing, Deploying and Managing Your In-Building Wireless Strategy
+
+Name: Trevor Morrison
+Title: VP Smarter Buildings
+Company: The Building People
+Description: 
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: Smart Organizations to Drive Smarter Buildings
+
+Name: Lauren Moss
+Title: SVP, Chief Sustainability Office
+Company: Vornado Realty Trust
+Description: Lauren Brust Moss is the Senior Vice President, Chief Sustainability Officer at Vornado Realty Trust, where she oversees the company’s industry-leading sustainability programs including initiatives focused on energy efficiency, green cleaning, waste diversion, technology and infrastructure, and healthy environments. Lauren has more than 20 years of experience managing sustainability, energy and capital improvements for large-scale buildings and portfolios, and is recognized as an industry thought leader and advocate on green policy, regulation and compliance.
+Sessions: Tuesday, June 13, 2023 - 5:20 pm: Incorporating an Embodied Carbon Strategy
+
+Name: Scott Muench
+Title: VP Customer Experience
+Company: J2 Innovations
+Description: Scott Muench, VP of Customer Experience, joined J2 Innovations as a partner in 2011. He is best known as an industry expert in smart homes, smart buildings and smart device management. Scott is a past president of ASHRAE and a Board Director and spokesman for the Project Haystack community. Scott is passionate about innovation and sustainability in building automation industry. His specialization is the ability to simplify the complexities of technology into eloquent solutions.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: The New Age of “Open”: Paving the Road for Smart Building Data Interoperability
+
+Name: Jon Murchison
+Title: CEO
+Company: Blackpoint
+Description: 
+Sessions: Tuesday, June 13, 2023 - 8:10 am: Understanding the Growing Scope of the Nation State Cyber Threat
+
+Name: Rob Murchison
+Title: Co-Founder
+Company: Intelligent Buildings
+Description: Rob Murchison has over 20 years experience in strategy consulting, sales and design of technology to real estate developers and commercial businesses with expertise in networking, and software and data base applications. He is currently a Principal and Co-Founder of Intelligent Buildings, LLC, founded in 2004 to help customers manage risk, enhance occupant wellbeing, and improve performance.
+Sessions: Tuesday, June 13, 2023 - 9:25 am: Keeping Cyber Relevant in Challenging Economic Times
+
+Name: Robb Napolitano
+Title: CIO
+Company: Brooksville Company
+Description: Robb Napolitano is the CIO for the Brooksville Company and is responsible for all oversight of its information and technology platforms. As a member of Brooksville's Senior Leadership Team, he contributes to the firm's strategic direction by using Information and Technology to reduce cost, improve operational process efficiencies and maximize revenue. Robb has more than 20 years' experience in the application of IT solutions across multiple industries.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: Modern AP Automation: Overcoming the Headaches
+
+Name: Fadi Nasr
+Title: VP, IT
+Company: Calgary Cooperative
+Description: With a background in Management Information Systems and Applied Mathematics, Fadi Nasr started his career specializing in managing financial systems, merger coordination/system integration, information systems security and operational auditing. Fadi has been with Calgary Coop for eight years and values the organization’s progressive thinking and desire to advance technology innovation to meet the growing need for automated customer-facing applications.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: A Case Study for Modern Cloud-Native Platforms: Driving Innovation with No-Code Development
+
+Name: Katie Nelson
+Title: Global Head of Digital Business Operations
+Company: CBRE Investment Accounting & Reporting
+Description: 
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Investment Management & Best Practices Case Study Session
+
+Name: Khanh Nguyen
+Title: Vice President, IT - Enterprise Applications
+Company: Kilroy Realty
+Description: 
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Modern Data Architecture for Real-Time Energy Management
+
+Name: Alan Ni
+Title: Senior Director of Edge Marketing
+Company: HPE Aruba Networking
+Description: Alan Ni is the Senior Director of Edge Marketing at HPE Aruba Networking, with 20 years of technology and financial expertise with mobile computing.  Alan’s team is responsible for overseeing Aruba’s go-to-market across its Edge Service Platform and network-as-a-service offerings.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: Making Sense of the Wireless Communication Infrastructure: The Role of WiFi
+
+Name: Chuck Niswonger
+Title: President
+Company: NiceNets Consulting
+Description: Chuck Niswonger is the President of NiceNets Consulting, a veteran-owned, independent technology advisory services company specializing in commercial and corporate real estate. He provides businesses with unbiased guidance on technology strategy, selection, integration, and implementation. Chuck has also been a long-time partner with Realcomm as their Investment Management Board chairman.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Eutopia Investment Management (EIM): Consultation Workshop / Luncheon
+
+Name: Kendall O'Neill
+Title: Director, Channel Sales
+Company: Atrius at Acuity Brands
+Description: Kendall is the Director of Channel Sales with the Intelligent Spaces Group at Acuity Brands strategizing with supporting solution and services providers who leverage the Atrius Building Insights software to automate workflow processes, prioritize data-driven decisions for building portfolios, and deliver energy and sustainability reports with ease.  Kendall has been in the building technologies industry for more than 14 years and held roles in sales, operations, and business development.  Kendall has worked with clients across the education, healthcare, data center, and has a passion for leading organizations in adopting digital technologies and proactive services.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Carbon Accounting, Reporting and Recommendation Engine Platforms: What’s in Your Toolbox?
+
+Name: Simon Okunev
+Title: Managing Director, CIO
+Company: Tishman Speyer
+Description: Simon Okunev oversee the strategy and execution of Tishman Speyer's Global Information Technology function. He has 25 years of experience building and leading teams, as well as developing and implementing innovative technologies and systems.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Real Discussions: Leadership in a Rapidly Changing Environment
+
+Name: Michael Osment
+Title: CTO
+Company: Bedrock Detroit
+Description: Michael Osment is Bedrock's Chief Technology Officer leading its technology team in building services, enterprise project management systems, data management and IT. In this role, Osment will merge technology with physical buildings to create new environments that deliver better services, reduce energy usage and enhance digital infrastructure. Michael has more than 20 years as an information and technology executive.
+Sessions: Tuesday, June 13, 2023 - 3:40 pm: 5G / CBRS and Private Networks: Hype vs. Reality
+Thursday, June 15, 2023 - 11:30 am: 5G, DAS / CBRS Deployments in Commercial Real Estate: Is the Technology Living Up to Expectations?
+
+Name: Clint Osteen
+Title: Sr. Director, IT
+Company: Granite Properties
+Description: Clint Osteen is Sr. Director of IT and is responsible for directing Granite’s information services and telecommunications across the portfolio. Prior to joining Granite, Clint spent 10 years in consulting, providing commercial real estate companies technology and business improvement services.
+Sessions: Tuesday, June 13, 2023 - 4:40 pm: Cybersecurity for OT
+Wednesday, June 14, 2023 - 12:00 pm: The Gateway to an Enhanced Occupant Experience: Focus on Access Control and Lobby Technologies
+
+Name: Brian Oswald
+Title: Managing Director
+Company: CBRE
+Description: Brian Oswald is Managing Director for CBRE focused on professional services, remote facility operation and system integration. He is responsible for daily business operations of CBRE and assist account teams and clients with identifying and implementing portfolio-wide smart building technology solutions. Brian brings more than a decade of smart building technology and implementation experience to his role, including a proven record of delivering multi-site applications.
+Sessions: Tuesday, June 13, 2023 - 1:45 pm: SI vs. MSI: The Evolving Role of the System Integrator
+Thursday, June 15, 2023 - 12:30 pm: Data-as-a-Service: Benefits of Outsourcing Information Services in the Built Environment
+
+Name: Julian Palacios
+Title: Director of Sales and Business Development
+Company: Smart Buildings Academy
+Description: 
+Sessions: Tuesday, June 13, 2023 - 2:30 pm: Recruiting and Training Our Next Generation of Controls Professionals
+Thursday, June 15, 2023 - 11:30 am: Smart Facilities Skillset Planning Workshop
+
+Name: Sunder Pappu
+Title: SVP, Head of Technology & Strategy
+Company: Inland Real Estate Group
+Description: Sunder Pappu has more than 20 years of experience in the technology industry. He is currently the SVP Head of Technology Strategy at Inland Real Estate Group. Prior to Inland, Sunder worked at JP Morgan Chase, Avanade and Deloitte Consulting, holding leadership positions in the areas of strategy consulting, project management and application delivery.
+Sessions: Tuesday, June 13, 2023 - 2:35 pm: How Can GPT be Applied to CRE Processes?
+Wednesday, June 14, 2023 - 2:00 pm: Intelligent Automation: NextGen AI ChatBot Applications for Commercial Real Estate
+Thursday, June 15, 2023 -: Artificial Intelligence in the Built Environment
+
+Name: Natalie Patton
+Title: Director of Customer Success
+Company: Buildings IOT
+Description: Natalie Patton is Buildings IOT’s Director of Customer Success, leading the team responsible for all software implementations and ongoing support. With nearly 10 years in the building automation and controls industry, Natalie works across disciplines to ensure Buildings IOT’s SaaS products are delivered to the highest standards, meeting all project specifications and compatible with the long-term development goals of the company.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Managing and Securing IoT Devices on the OT Network
+
+Name: Lazlo Paul
+Title: Associate Data Scientist
+Company: Lawrence Berkeley National Laboratory
+Description: Lazlo Paul is an Associate Data Scientist at Lawrence Berkeley National Laboratory where he pursues research on advanced building control schemes and control platforms, semantic interoperability in buildings, and building-grid interaction.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: The New Age of “Open”: Paving the Road for Smart Building Data Interoperability
+
+Name: Chris Peckham
+Title: COO
+Company: Ollivier Corporation
+Description: 
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Managing and Securing IoT Devices on the OT Network
+
+Name: Marc Petock
+Title: VP,  Chief Marketing & Communications Officer
+Company: Lynxspring
+Description: Marc Petock is a pioneer in leading the Intelligent/Smart Buildings and M2M movements pushing the industry forward and has contributed to transforming and changing the Intelligent Buildings and M2M (now IoT) industries. As Chief Marketing and Communications Officer for Lynxspring, Marc leads corporate and product marketing, strategy, brand management, public relations and communications that support the company’s strategic and growth initiatives.
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: Smart Organizations to Drive Smarter Buildings
+Thursday, June 15, 2023 - 12:30 pm: Data-as-a-Service: Benefits of Outsourcing Information Services in the Built Environment
+
+Name: Paige Pitcher
+Title: Head of Strategic Partnerships
+Company: Moderne Ventures
+Description: Paige Pitcher is the Head of Strategic Partnerships at Moderne Ventures. She manages programming and relationships across the firm, including its Portfolio Companies, Passport Program and Corporate Innovation Advisory practice.Paige is a futurist, innovator, and intrapreneur with a decade's worth of experience in real estate development and corporate strategy. She is a TEDx speaker and has delivered keynote addresses on three continents urging the evolution of the built environment.
+Sessions: Thursday, June 15, 2023 - 11:30 am: PropTech and its Relationship with the Future of CRE: A VC Perspective
+
+Name: Doug Plumley
+Title: Software Architect
+Company: Dartmouth College
+Description: Doug Plumley is a Software Architect in Dartmouth College's Campus Services Technology Services (CSTS) team. In this role, he provides IT/OT support to Dartmouth’s growing portfolio of smart buildings, applications, and services. His responsibilities include writing software and integrations for Dartmouth’s various software platforms (i.e. IWMS, CEMS, CMMS, etc.) and providing monitoring and management of Dartmouth’s BACnet networks and BAS applications. Doug is a key member of Dartmouth’s Smart Campus Steering Committee and a champion of Smart Campus design and system integration.
+Sessions: Tuesday, June 13, 2023 - 2:45 pm: Smart Building Design with the End in Mind
+Thursday, June 15, 2023 - 12:30 pm: The Modern Building Operating System (BOS) Stack: OT Software and Hardware Rationalization
+
+Name: Cliff Pollan
+Title: CEO & Co-Founder
+Company: Welo
+Description: Cliff is a CEO, entrepreneur and business executive whose success has come from building and leading outstanding teams, creating trusted relationships,  identifying new market opportunities, and working with vision and integrity. He draws on 40 years of experience, spotting opportunities to capitalize on technology innovations, leveraging a customer centric approach. Cliff most recently co-founded Welo,  a  hybrid work solution  that provides all of the intangibles of working together in an office so that colleagues who are in the office, remote or in hybrid situations can feel productive and connected. Welo is backed by Atlassian and Zoom.
+Sessions: Tuesday, June 13, 2023 - 5:30 pm: Zoom and Beyond: A New Way to Look at Virtual Workplaces
+Thursday, June 15, 2023 - 11:30 am: Ensuring Collaboration Equity: Best Practices for the Modern Hybrid Work Landscape
+
+Name: Mili Popat
+Title: IT Senior Director of Applications
+Company: Tishman Speyer
+Description: Mili Popat is a Senior Director at Tishman Speyer overseeing the firm’s global application and data strategy.  She manages strategic projects and partnerships to advance innovation through the evaluation and adoption of new technologies as well as the strategic roadmap and support of existing technology. Her specialties include ERP selection and implementation, business process transformation, project and change management.  Mili brings consulting and client centric approaches to deliver technology solutions that aim to make a positive impact and enhance the employee and customer experience.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Does Diversity Drive Innovation? Or Is It the Other Way Around?
+
+Name: Darlene Pope
+Title: President
+Company: Planon
+Description: Darlene Pope is President of Planon, North America, overseeing all aspects of business operations for the world’s leader in integrated real estate management solutions. With more than 30 years of experience in commercial real estate, technology, and smart building consulting, she is a globally recognized subject matter expert and visionary in the smart building industry.
+Sessions: Wednesday, June 14, 2023 - 4:45 pm: The Journey Towards Net Zero: Strategies and Best Practices for Existing Buildings
+
+Name: Jeremy Poteet
+Title: EVP, CIO
+Company: JBG SMITH
+Description: Jeremy Poteet is the EVP of Technology at JBG SMITH where he leads a team of business minded technologists responsible for technology and innovation based transformative initiatives. He has over 20 years in real estate technology across many asset types in the real estate space and is passionate about the adoption of technology and leading others in solving complex process, technology, reporting, and organizational challenges.
+Sessions: Tuesday, June 13, 2023 - 12:10 pm: From Data to Decision Making: Leveraging Technology to Optimize Real Estate Investments
+
+Name: Raj Purushotham
+Title: VP, Marketing & Sales
+Company: Property Automate
+Description: Raj is a Sales strategist with vast experience in driving business growth for Software Products & Services in International markets. In his role at Property Automate, Raj leads global GTM for cutting-edge SaaS services-PropGOTO for the Property sector. Raj is a certified ERP and BPM expert facilitating many key projects focusing on ‘customer touchpoints’ and ‘out-to-In’ strategies for enterprises while using digital strategies in the core of the transformation.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Habib Qayumi
+Title: Director, Business Solutions
+Company: Cadillac Fairview
+Description: Habib Qayumi  has primarily spent his 15-year career leading system transformations in real estate. He has a keen interest in business process improvements, data, analytics and automation. His focus is transforming business processes with the use of appropriate technologies. By his financial and consulting background, he has extensive knowledge of real estate processes in all sectors, commercial, residential, office and industrial. He is currently Director, Business Solutions for Cadillac Fairview (CF).
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Automation (R)evolution: Strategies to Accelerate Business Transformation
+
+Name: Daniel Quant
+Title: VP of Strategic Development
+Company: MultiTech
+Description: Daniel Quant, Vice President of Strategic Development is responsible for identifying emerging business opportunities, while working closely with ecosystem partners & industry associations to accelerate these opportunities into defined vertical and geographical markets. He represents MultiTech in various standardization organizations and has more than 25 years of wireless & telecom experience.
+Sessions: Tuesday, June 13, 2023 - 3:30 pm: Smart and Sustainable Building Automation
+
+Name: Ari Reubin
+Title: SVP
+Company: KMC Controls
+Description: 
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Data-Driven Approach for Managing Indoor Air Quality: Lessons Learned from K-6 School Programs
+
+Name: Umar Riaz
+Title: Managing Director
+Company: EY
+Description: 
+Sessions: Wednesday, June 14, 2023 -: Navigating the Financial Stresses of the CRE Market, Economy and Impact on Innovation
+
+Name: Paul Ricci
+Title: Partner, Technology+ National Leader
+Company: CohnReznick
+Description: Paul Ricci is a partner and national leader of CohnReznick’s Technology+ group. Over the last 17 years, Paul has advised some of the largest companies in the U.S. and abroad on business strategy, major business transformation, process optimization, analytics enablement, system’s implementations, integrations, and conversions. Paul focuses on organizational entity and chart of accounts design, CRM, budgeting and forecasting, financial reporting, business intelligence, analytics, system selection, program and project management, change management, ERP implementations and upgrades, JD Edwards, IT strategy, data conversions and integrations.
+Sessions: Tuesday, June 13, 2023 - 2:35 pm: How Can GPT be Applied to CRE Processes?
+Wednesday, June 14, 2023 - 3:15 pm: Data Governance: Building an Effective Framework
+
+Name: Joe Rich
+Title: EVP, CIO
+Company: Related Companies
+Description: Joe Rich is EVP, CIO of Related Companies, a privately owned real estate firm with a portfolio of over $50 billion in real estate assets owned or under development that is made up of best-in-class mixed-use, residential, retail, office and affordable properties in premier high-barrier-to-entry markets. Joe has over 20 years experience as a CIO focused on global cultural change within the organization.
+Sessions: Tuesday, June 13, 2023 - 12:20 pm: What's Keeping You Up at Night?
+Tuesday, June 13, 2023 - 4:25 pm: Defining, Designing, Deploying and Managing Your In-Building Wireless Strategy
+Wednesday, June 14, 2023 -: Realcomm | IBcon Chairs Weigh In: Unpacking Today’s Top PropTech Issues & Topics
+Thursday, June 15, 2023 - 12:30 pm: Making Sense of the Wireless Communication Infrastructure: The Role of WiFi
+
+Name: Betsy Ricker
+Title: Energy Management System Engineer
+Company: Dartmouth College
+Description: As a member of Dartmouth College’s Energy Management team, Betsy oversees and maintains Dartmouth’s energy monitoring infrastructure and campus energy management system (CEMS), actions energy efficiency strategies on campus, and supports the College’s decarbonization initiatives. She is also a member of Dartmouth’s Smart Campus Steering Committee, which provides strategic guidance to Dartmouth’s leadership on the design and operation of the College’s operational technology (OT) systems.
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: Smart Organizations to Drive Smarter Buildings
+Wednesday, June 14, 2023 - 1:00 pm: An Independent Data Layer Strategy: What Does Independent Really Mean?
+
+Name: David Robinson
+Title: Director of Automation
+Company: Mecho
+Description: 
+Sessions: Tuesday, June 13, 2023 - 3:45 pm: Holy Grail: The Low Voltage Architecture - Case Study Showcase
+Tuesday, June 13, 2023 - 5:00 pm: Solution Showcase
+
+Name: Skip Rodenbush
+Title: Founder and CEO
+Company: The Virtual Specialist
+Description: Skip Rodenbush, Founder and CEO of The Virtual Specialist (TVS), excels at identifying applications and designing best-of-breed technology solutions that yield immediate measurable results at scale. TVS focuses on healthcare, sustainability, and commercial real estate specializing in improving the user experience and enabling people to work together virtually with actionable information regardless of location.
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: A Meta Look at Collaboration
+Thursday, June 15, 2023 - 11:30 am: Ensuring Collaboration Equity: Best Practices for the Modern Hybrid Work Landscape
+
+Name: Andres Rodriguez
+Title: Director, Building Connectivity
+Company: QuadReal
+Description: Andres Rodriguez is the Director, Building Connectivity and has over 15 years’ experience in IT/OT environments in healthcare, finance, oil and gas and real estate. At QuadReal, Andres works to deploy networks that serve as the platform to build their digital building operational environments and amenity initiatives.
+Sessions: Tuesday, June 13, 2023 - 8:50 am: Cyber IT vs. OT Boundaries: Applying IT Standards to OT
+Wednesday, June 14, 2023 - 4:00 pm: Pushing Technology Forward: Younger Thought Leaders Weigh In
+Thursday, June 15, 2023 - 12:30 pm: The Modern Building Operating System (BOS) Stack: OT Software and Hardware Rationalization
+
+Name: Ryan Rodriguez
+Title: Director of IT, Property Services
+Company: Piedmont REIT
+Description: Currently IT Director – Property Services for Piedmont REIT with a decade of experience in implementing and managing cyber security and infrastructure in the real estate industry.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: From Juice Jacking to Ransomware: Cyber News You Can Use
+
+Name: Nick Romito
+Title: CEO & Co-Founder
+Company: VTS
+Description: Nick Romito is the CEO and co-founder of VTS, commercial real estate's leading leasing, marketing, and asset management platform. Under Nick’s leadership, the proptech unicorn just launched VTS Market, the CRE industry’s first integrated online marketing platform that enables landlords & their agency teams to market and lease their available space remotely for the first time. VTS manages more than 12 billion square feet of office, retail and industrial assets across 35 countries by more than 700 landlords and brokerage firms which includes CBRE, Blackstone, LaSalle Investment Management, Hines, Boston Properties & JLL.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: View from the Top: Industry Tech Giants Speak on the State of the Industry
+
+Name: Francisco Ruiz
+Title: Global Infrastructure Strategist & Director of IoT
+Company: Oracle
+Description: Francisco Ruiz is the Global Infrastructure Strategist and Director of IoT for Real Estate and Facilities at Oracle.  He leads a global team that’s responsible for the strategy, design, security and implementation of enterprise IoT Solutions across a 19 million square foot Real Estate Portfolio. Francisco is a recognized as a thought leader and subject matter expert in all things IoT and is a frequent speaker on related areas of expertise.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Inside Commercial Real Estate Innovation Labs: Where Future Building Technologies Come to Life
+
+Name: Katia Saenko
+Title: SVP & CIO
+Company: Cadillac Fairview
+Description: 
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: Data Governance: Building an Effective Framework
+
+Name: Rashid Salem
+Title: Principal
+Company: Petra Development
+Description: Rashid Salem is the founder and owner of Petra Development, which was formed in 2012. He has guided Petra from a boutique residential development firm focused on Washington, DC, to a developer of middle-market and institutional real estate in the DC and DFW markets. Rashid specializes in complex transactions in which he adds value through zoning and other entitlement work that occurs prior to the start of vertical development. During his career, Rashid has developed, owned, and managed a portfolio of affordable housing, luxury apartments, and mixed-use properties. He is a leading provider of quality affordable housing in the nation’s capital.
+Sessions: Wednesday, June 14, 2023 - 3:00 pm: Case Study: Mitigating the Financial Risk of Highly Sustainable Developments
+
+Name: L.D. Salmanson
+Title: CEO
+Company: Cherre
+Description: L.D. Salmanson has extensive experience founding, advising, and investing in leading private technology companies. Prior to founding Cherre, he served as Executive Director of Oppenheimer’s Private Shares Group, after Oppenheimer acquired GreenCrest Capital, a firm he co-founded to enable pre-IPO transactions in some of the largest private technology companies in the world, including Facebook, Twitter and Uber.
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Enterprise Architecture: The Informational Framework for Driving Digital Transformation
+
+Name: Kay Sargent
+Title: Senior Principal, Director of WorkPlace
+Company: HOK
+Description: With 35 years of experience, Kay is a recognized expert on workplace design and strategy issues. She is an award-winning designer who has worked with several Fortune 500 companies to optimize their global real estate portfolios and create innovative work environments. She is director of HOK’s WorkPlace team, a practice that supports organizations undertaking multiple projects in various locations, and a member of HOK’s Board of Directors.
+Sessions: Tuesday, June 13, 2023 - 3:05 pm: Rethink Work: Not Just the Workplace
+Thursday, June 15, 2023 - 11:30 am: Ensuring Collaboration Equity: Best Practices for the Modern Hybrid Work Landscape
+
+Name: Tony Schaffer
+Title: President
+Company: HALO Networks
+Description: Tony Schaffer is the President of HALO, the industry leading nationwide wireless infrastructure, 5G DAS and managed services provider.  Success driven with a collaborative approach, he leads the amazing HALO Team by building a dynamic and rewarding culture and work environment. A highly respected business professional with proven leadership and strategic execution, Tony has built strong and loyal relationships with REITs, Developers and Owners making him a trusted source and partner to the Real Estate community.
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: The In-Building Wireless Lifecycle: From Spec to Implementation to Management Lifecycle
+Thursday, June 15, 2023 - 11:30 am: 5G, DAS / CBRS Deployments in Commercial Real Estate: Is the Technology Living Up to Expectations?
+
+Name: Jeannie Schneider
+Title: SVP, CTO
+Company: Hines
+Description: Jeannie Schneider is the SVP & CTO for Hines.  She is responsible for all corporate and global real estate technologies, strategy, and standards. Jeannie has established a reputation as a versatile, strategic leader who has a very deep knowledge of real estate and how technology can transform the industry and Hines to create more value.
+Sessions: Tuesday, June 13, 2023 - 12:20 pm: What's Keeping You Up at Night?
+Wednesday, June 14, 2023 -: Realcomm | IBcon Chairs Weigh In: Unpacking Today’s Top PropTech Issues & Topics
+
+Name: Andy Schonberger
+Title: VP, Client Services
+Company: Intelligent Buildings
+Description: Andy Schonberger is currently Vice President of Client Services at Intelligent Buildings helping clients with advisory, site assessments and managed services. He has 15 years’ experience in facilities management and technology, ranging from large industrial to commercial office where he has held engineering, project management, advisory and hands-on implementation roles for organizations including Earth Rangers, Cisco Systems and the Canada Green Buildings Council (where he was Past Chair of the Toronto Chapter).
+Sessions: Tuesday, June 13, 2023 - 2:00 pm: Welcome & Introductions
+Tuesday, June 13, 2023 - 2:10 pm: Smart Building Basics
+Tuesday, June 13, 2023 - 4:20 pm: ESG and CRE Carbon Regs
+Tuesday, June 13, 2023 - 5:30 pm: Conference Highlights and CTA
+
+Name: Pete Schow
+Title: Executive Director, Head of Data
+Company: Affinius Capital
+Description: Pete Schow's career spans over 20 years in Information Technology with 17 years in various sectors of Real Estate. Throughout his career, he has managed multiple enterprise level initiatives in Residential/Multi Family development, Investment Real Estate, Commercial Mortgage, Debt as an Asset, and Private Equity. He recently joined Affinius Capital as Executive Director - Head of Data where he is focused on Data Management and Reporting Automation.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: Data Governance: Building an Effective Framework
+Wednesday, June 14, 2023 - 4:00 pm: Investment Management & Best Practices Case Study Session
+
+Name: Brian Schwartz
+Title: VP, IT
+Company: Macerich
+Description: Brian Schwartz is responsible for Smart Building Infrastructure at over 50 centers portfolio wide. He oversees the installation and support for CCTV, Wi-Fi, Energy Management, shopper counting, and DAS. Brian supports digital marketing initiatives including digital signage and property websites.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: Making Sense of the Wireless Communication Infrastructure: The Role of WiFi
+
+Name: Lauren Scott
+Title: VP, Marketing & Sustainability, Intelligent Spaces Group
+Company: Acuity
+Description: Lauren Scott is the Vice President of Marketing & Sustainability at Acuity Brands' Intelligent Spaces Group. Scott specializes in translating climate initiatives into meaningful action to deliver on commitments to the building and renewables sectors. Her marketing and communications background is leveraged to promote social and environmental responsibility as an approachable, yet critical part of business operations.
+Sessions: Tuesday, June 13, 2023 - 3:50 pm: Technology's Role in Decarbonization
+
+Name: John Seaton
+Title: Chief Revenue Officer
+Company: RealFoundations
+Description: John Seaton is versed in providing business process outsourcing, professional services, and enterprise technology solutions to the commercial real estate industry. He consistently aligns solutions with evolving client business objectives and leads the joint development and implementation of key strategic projects that meet or exceed client goals in the areas of retained revenue, profit margin, and cost reductions results. John has transformed inefficient and ineffective departments into cohesive and dedicated teams driven to achieve unparalleled results.
+Sessions: Wednesday, June 14, 2023 - 1:45 pm: Investment Management Data Integration and Advanced Analytics
+Wednesday, June 14, 2023 - 4:00 pm: Investment Management & Best Practices Case Study Session
+
+Name: Andrew Segal
+Title: CEO
+Company: Boxer Property
+Description: Andrew Segal formed Boxer Property in September 1992. Under his oversight, the company has successfully reached into segments as diverse as resort hotels, retail centers, office and other real estate businesses, accounting for approximately 20 million square feet of space across the United States. He is the co-founder of Stemmons Enterprise software company.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: Opportunities in Times of Change: Meeting the Technology Needs of a Distributed Workforce
+
+Name: Justin Segal
+Title: President
+Company: Boxer Property
+Description: Justin Segal is an operations executive and entrepreneur specializing in real estate investment and management, startups, and technology. He is the founder of Stemmons Enterprise, a universal operations platform that allows companies to operate with pervasive data and unparalleled agility. He often speaks on topics involving enterprise data, analytics, and user experience.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: A Responsible and Effective AI Roadmap for CRE Companies
+
+Name: Ryan Sen
+Title: VP Sales, International
+Company: Distech Controls
+Description: Having spent most of his career within the Distech Controls organization with 15 years of experience in the industry, Ryan Sen most recently served as Director of Sales where he was in charge of the sales channel for the entire Canada. He has previously held a multitude of management roles within the organization. Ryan has also performed Business Development for the Distech Controls Energy Services division and briefly supported the Canadian Market in a Regional Sales Management role.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: The Modern Building Operating System (BOS) Stack: OT Software and Hardware Rationalization
+
+Name: Maya Setchkova
+Title: Managing Director
+Company: Cushman & Wakefield
+Description: Maya Setchkova is a Managing Director at Cushman & Wakefield, San Francisco, in charge of a global account spanning all service lines.  She has over 20 years of experience in real estate investment, asset management, finance, brokerage, property and facility management, project management, and lease administration. Maya is passionate about introducing innovative technology to the traditionally conservative real estate sector.  She has piloted/implemented a large number of new PropTech solutions in various property portfolios. Maya also serves as CFO/COO/CSO advisor to startups in the real estate and healthcare space.  She is an established PropTech expert and has spoken at PropTech forums and published articles on the subject.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Focusing on Workplace: Digital Platforms to Streamline and Enhance Experience
+
+Name: Matthew Sexton
+Title: Director, Engineering
+Company: BXP
+Description: 
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Indoor Environmental Quality (IEQ): Perspectives from the Front Lines
+
+Name: Manish Sharma
+Title: VP, CPO Honeywell Connected Buildings
+Company: Honeywell
+Description: 
+Sessions: Thursday, June 15, 2023 - 12:30 pm: Data-as-a-Service: Benefits of Outsourcing Information Services in the Built Environment
+
+Name: Michael Sherwood
+Title: Chief Innovation Officer
+Company: City of Las Vegas
+Description: Michael Sherwood isthe Chief Innovation and Technology Officer for the City of Las Vegas. He has more than 20 years of experience in the fields of process improvement, technology and innovation.  Prior to the city of Las Vegas, he served as the Deputy Director of Public Safety, Business Services & City Technology for the City of Irvine, California.  Michael is extremely passionate about technology and believes that through innovation, workforce development and collaboration, we can create brighter and sustainable communities.
+Sessions: Wednesday, June 14, 2023 -: The Las Vegas Digital Innovation Story: The Built Environment @ City Scale!
+
+Name: Tom Shircliff
+Title: Co-Founder
+Company: Intelligent Buildings
+Description: Tom Shircliff is a co-founder of Intelligent Buildings, a smart real estate service firm founded in 2004. Intelligent building provides services for technology strategy, vendor risk management and portfolio decarbonization.
+Sessions: Tuesday, June 13, 2023 - 2:00 pm: Welcome & Introductions
+Tuesday, June 13, 2023 - 4:20 pm: ESG and CRE Carbon Regs
+Wednesday, June 14, 2023 - 12:00 pm: All About the Results: Sensor Data vs. Outcomes
+
+Name: Raj Singh
+Title: CEO
+Company: Altrio
+Description: 
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Does Diversity Drive Innovation? Or Is It the Other Way Around?
+
+Name: Sarabjit Singh
+Title: CEO
+Company: Five Rivers IT
+Description: Sarabjit Singh leads Five Rivers IT in delivering industry leading Cybersecurity, Compliance and IT solutions. He brings over 22 years of leadership experience in the IT services industry spanning several verticals. With an engineering pedigree, Sarabjit brings together a unique combination of technology expertise and business acumen providing a 360-degree perspective to their clients. His focus at Five Rivers IT is helping their clients realize their strategic vision with practical solutions.
+Sessions: Tuesday, June 13, 2023 - 1:05 pm: Cybersecurity Maturity Journey of a REIT
+
+Name: Jerome Smalley
+Title: Co-Founder & CEO
+Company: Blueprint Robotics
+Description: Having spent his entire career in the development and construction business, Jerry believes there are better and more efficient ways to build. As CEO, he is committed to ensuring that the company executes its unique approach combining advanced modeling, materials innovation and robotic controlled quality to realize the sustainability ambitions of Blueprint and the construction industry.
+Sessions: Wednesday, June 14, 2023 - 3:00 pm: Case Study: Mitigating the Financial Risk of Highly Sustainable Developments
+
+Name: Michael Smith
+Title: Sr Product Manager
+Company: Tridium
+Description: Mike Smithis the product manager for the Tridium hardware portfolio. He also manages the Niagara Framework platform and Niagara Enterprise Security products. Mike works closely with our OEM partners, distributers, and end customers to bring new products to the building automation space. He has been with Tridium over 3 years but has been working in the IoT space for most of the last decade. His previous role was in wireless cybersecurity developing products for researching and pen-testing IoT protocols.
+Sessions: Tuesday, June 13, 2023 - 3:30 pm: Smart and Sustainable Building Automation
+
+Name: Roger Smith
+Title: CEO
+Company: TermSheet
+Description: Roger Smith is the CEO & co-founder of TermSheet.  He is a seasoned entrepreneur with extensive experience in technology companies and deep roots in proptech. Prior to founding Term Sheet,  Roger served as Chief Technology Officer for a real estate-focused private equity firm based in Kansas City. He was responsible for the creation and maintenance of internal, advisor-facing,and investor-facing technology systems. Previously, Roger was co-founder at Groundbreaker, Inc., where he built the firm’s white-label real estate crowdfunding product, which powers a number of current applications.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Automation (R)evolution: Strategies to Accelerate Business Transformation
+
+Name: Emre Sonmez
+Title: Product Lead
+Company: Density
+Description: Emre is a Product Lead at Density, where he leads development of Density Atlas, the company’s workplace data exploration application. Emre partners closely with Density's customers and its creative and data science teams to help companies design and build data-driven workplace programs. Prior to joining Density, Emre was founder and CEO of Nashi, a workplace management startup focused on making hybrid work a frictionless experience for employees and workplace teams. Nashi was inspired by Emre's time building enterprise technology at WeWork and was acquired by Density in 2021.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Test for Success: De-Risking Smart Building Tech Deployments
+
+Name: Frank Spadafora
+Title: Real Estate Industry Principal
+Company: DealCloud
+Description: Frank Spadafora is the Real Estate Industry Principal at Intapp. In this role he applies his expertise in commercial real estate and product development to connect people and ideas to drive enablement and value creation through the DealCloud connected firm and deal management platform. Frank brings nearly 20 years of experience delivering digital solutions for commercial real estate to his role at Intapp. Most recently, Frank helped to launch the Strategic Consultant Group at CREtech where he advised clients from tech startups to global owners and occupiers on product strategy and go-to-market, solution roadmap and adoption, and data-centered digital transformation.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Automation (R)evolution: Strategies to Accelerate Business Transformation
+
+Name: Jon Spooner
+Title: Founder & CTO
+Company: Stacks+Joules
+Description: Jonathan Spooner brings a trove of experience in technology, innovation and marketing to the Stacks+Joules team. Having led innovation teams at Intersection (a division of Alphabet) and launching multiple high-tech businesses, he has a wide breadth of knowledge. His entrepreneurial passion has led him to plan, budget, oversee and lead all sizes of businesses across the span of his career.
+Sessions: Tuesday, June 13, 2023 - 2:30 pm: Recruiting and Training Our Next Generation of Controls Professionals
+
+Name: Helane Stein
+Title: SVP, CIO
+Company: Brixmor
+Description: Helane Stein is SVP, CIO of Brixmor, which owns and operates a high-quality, national portfolio of open-air shopping centers. Its 393 retail centers comprise of approximately 69 million square feet of prime retail space in established trade areas.
+Sessions: Tuesday, June 13, 2023 - 9:25 am: Keeping Cyber Relevant in Challenging Economic Times
+Wednesday, June 14, 2023 - 7:30 am: Inaugural Allies Breaking Barriers Sunrise Session
+Wednesday, June 14, 2023 - 2:00 pm: Automation (R)evolution: Strategies to Accelerate Business Transformation
+
+Name: Nicholas Stello
+Title: SVP, Digital Infrastructure
+Company: Vornado Realty Trust
+Description: Nicholas Stello is the SVP, Digital Infrastructure for New-York based Vornado Realty Trust. His responsibilities include leading the company's IT initiatives as they relate to in-building cellular, networking, cyber security and smart building connectivity. Vornado’s unique assets have enabled Nick to both differentiate and increase the value of its properties by structuring innovative agreements with national cellular carriers and other related technology providers.
+Sessions: Tuesday, June 13, 2023 - 1:40 pm: Laying the Foundation: The Technical and Business Dynamics of Private Networks vs. DAS/Small Cells vs. WiFi
+Tuesday, June 13, 2023 - 3:40 pm: 5G / CBRS and Private Networks: Hype vs. Reality
+Thursday, June 15, 2023 - 11:30 am: 5G, DAS / CBRS Deployments in Commercial Real Estate: Is the Technology Living Up to Expectations?
+
+Name: Dave Stephen
+Title: Product Strategy Manager
+Company: Delta Controls
+Description: 
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Indoor Environmental Quality (IEQ): Perspectives from the Front Lines
+
+Name: Craig Stevenson
+Title: President
+Company: AUROS Group
+Description: Craig Stevenson is President of AUROS Group, who pioneered the use of technology to bridge the gap between building science and data science.  Craig is co-author of the recently released book, “The Power of Existing Buildings—Save Money, Improve Health and Reduce Environmental Impacts” and the often-referenced ASTM article, “Project Case Studies and the Lessons they Teach about Whole Building Envelope Air Leakage Testing.”  Finally, Craig holds two United States’ patents in the field of data science for the built environment.
+Sessions: Tuesday, June 13, 2023 - 1:30 pm: Welcome and Introductions
+Tuesday, June 13, 2023 - 3:50 pm: Technology's Role in Decarbonization
+Tuesday, June 13, 2023 - 5:55 pm: Wrap-Up
+
+Name: Nada Sutic
+Title: VP, Sustainability, Innovation & National Programs
+Company: Epic Investment Services
+Description: Nada Sutic is the Vice President, Sustainability, Innovation and National Programs at Epic Investment Services. In this role, Nada is responsible for strategy and implementation of sustainability, digital building transformation and numerous operational programs with a focus on implementation through building operations and performance across the company’s diverse portfolio. With 15+ years of experience in commercial real estate, focused on sustainability, operational excellence and property management, Nada leads with a drive for successful implementation and critical measurement.
+Sessions: Wednesday, June 14, 2023 - 2:00 pm: Inside Commercial Real Estate Innovation Labs: Where Future Building Technologies Come to Life
+
+Name: Abid Syed
+Title: Manager, Building Technology
+Company: KingSett Capital
+Description: 
+Sessions: Tuesday, June 13, 2023 - 3:00 pm: Alumni Stories
+
+Name: Matt Taylor
+Title: Senior Product Marketing Manager
+Company: Microsoft
+Description: Matt Taylor leads product marketing for Teams Devices at Microsoft where he spends his time working closely with Microsoft’s engineering team and with hardware manufactures to build advanced AI powered technology solutions which address the challenges posed by hybrid meetings and a geographically distributed workforce. With 10 years of experience at Microsoft, and management consulting prior, he is a results driven technology professional with a passion for helping organizations navigate the evolving technology landscape.
+Sessions: Tuesday, June 13, 2023 - 4:40 pm: REtooling the Workplace: Microsoft Teams Rooms
+
+Name: Robert Teel
+Title: President, Global Solutions
+Company: Yardi Systems, Inc.
+Description: Rob Teel is responsible for product development, support and implementations of Yardi's Commercial Property Management and Investment Management suites. Rob joined Yardi Systems in 2003, and he has nearly 20 years of property and financial systems implementation experience.
+Sessions: Wednesday, June 14, 2023 -: Industry Perspective: What Does the Future Hold for Commercial and Corporate Real Estate
+Wednesday, June 14, 2023 - 12:00 pm: View from the Top: Industry Tech Giants Speak on the State of the Industry
+
+Name: Colette Temmink
+Title: COO, Commercial Division
+Company: SMS Assist, a Lessen Company
+Description: Colette Temmink currently serves as Chief Operating Officer, Commercial Division at SMS Assist, a Lessen Company. Prior to this she was Chief Strategy & Product Officer at Blue Skyre IBE. She has also served as Senior Vice President and Chief Administrative Officer at Apollo Education Group and held global real estate executive roles at C&W, Oracle and Boeing. She is a speaker and thought leader on corporate real estate, facilities management, ESG and PropTech.
+Sessions: Wednesday, June 14, 2023 -: Realcomm | IBcon Chairs Weigh In: Unpacking Today’s Top PropTech Issues & Topics
+Wednesday, June 14, 2023 - 4:00 pm: Carbon Accounting, Reporting and Recommendation Engine Platforms: What’s in Your Toolbox?
+
+Name: Alexandra Thompson
+Title: Program Director
+Company: National Research Council Canada
+Description: Dr. Alexandra Thompson is the Program Director for the Low Carbon Built Environment Challenge Program with the National Research Council of Canada. Dr. Thompson manages a large portfolio of collaborative government, industry and academia R&D projects strategically focused on removing barriers to decarbonization of the construction sector at scale for buildings and infrastructure. She was the Program Lead for the NRC  High Performance Buildings Program 2019-21, formerly Team Lead to the Human Factors team in Construction team at NRC and a published scientist.
+Sessions: Thursday, June 15, 2023 - 11:30 am: Open Source to Cloud: Fast, Cheap and Secure Access to Smart Building Data
+
+Name: Becca Timms
+Title: Director, ESG
+Company: Jamestown
+Description: Becca Timms is the Director of ESG at Jamestown. She leads environmental, social and governance (ESG) initiatives through the Jamestown Green program.
+Sessions: Tuesday, June 13, 2023 - 1:35 pm: Setting and Actually Achieving Targets
+Wednesday, June 14, 2023 - 4:45 pm: The Journey Towards Net Zero: Strategies and Best Practices for Existing Buildings
+
+Name: Liza Tobin
+Title: Senior Director for Economy
+Company: Special Competitive Studies Project (SCSP)
+Description: 
+Sessions: Thursday, June 15, 2023 -: Global Technology Competitiveness: The Nation State Battle is Upon Us
+Thursday, June 15, 2023 - 12:30 pm: Understanding Nation State Technology Challenges and Threats!
+
+Name: Kyle Tooke
+Title: Sr. Director of Client Services
+Company: Intelligent Buildings
+Description: 
+Sessions: Tuesday, June 13, 2023 - 2:40 pm: Use Cases vs. Systems and Features
+
+Name: Michael Torres
+Title: Security Engineer
+Company: Google
+Description: Michael Torres is a Security Engineer at Google, where he leads work on securing the access systems and networks in use by Operational Technology (OT) and Internet of Things (IoT) systems across Alphabet. Michael got his start in technology and securing cyber-physical systems while on active duty in the United States Marine Corps, and has continued to serve in the United States Marine Corps Reserve as a cyber warfare operator.
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: Test for Success: De-Risking Smart Building Tech Deployments
+
+Name: Zachary Toubman
+Title: Director of Sales
+Company: PRODA
+Description: With over a decade of experience on Capitol Hill, tech companies like Microsoft and Yelp, and various successful start-ups, Zach Toubman has spent the past several years leveraging this unique combination of skills and experience to drive the adoption of technology in real estate.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Matt Tracy
+Title: Managing Director of Innovation & Technology
+Company: RangeWater
+Description: 
+Sessions: Wednesday, June 14, 2023 - 5:00 pm: From Juice Jacking to Ransomware: Cyber News You Can Use
+
+Name: Andy Tran
+Title: Product Manager
+Company: Mero
+Description: Andy Tran is a Product Manager with over 5 years' experience in the B2B SaaS space. He has experience managing cross-functional teams with a history of streamlining product processes and operations. Currently at Mero Technologies, Andy is leading the onboarding & delivery team in building products that foster safer, sustainable, and more profitable commercial buildings. Key strengths include user research, leadership and process improvement.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Nitesh Trikha
+Title: Chief Product Officer
+Company: View
+Description: 
+Sessions: Tuesday, June 13, 2023 - 8:40 am: Sponsor Introduction: View
+
+Name: John Turner
+Title: CEO
+Company: Gafcon Digital
+Description: John Turner has built his career around the use of technology to transform organizations. John has built a team of architects, civil engineers, technologists, data scientists and project execution specialists that all want to transform the digital building lifecycle, from the perspective of an owner. He has applied and continually develops this through engagement with multi-billion-dollar building lifecycle programs for real estate owners.
+Sessions: Tuesday, June 13, 2023 - 3:50 pm: Technology's Role in Decarbonization
+
+Name: Clayton Ulrich
+Title: SVP, Corporate Ops & Engineering Svcs., Global Sustainability Officer
+Company: Hines
+Description: Clayton Ulrich is the firm’s Senior Vice President, Corporate Operations and Engineering Services and also serves as Global Sustainability Officer.  He is responsible for the firm's industry-leading standards in operations and maintenance, environmental policy, equipment efficiency, energy management and engineering employee development. His experience with building operations, technologies, equipment, components and systems is instrumental in optimizing performance and minimizing risk for the assets Hines manages.
+Sessions: Tuesday, June 13, 2023 - 2:30 pm: Hines Carbon Impact Assessment
+
+Name: Veronica Unnikrishnan
+Title: Partner & SVP of Innovation, Sales & Marketing
+Company: 5Q Partners
+Description: Veronica is Partner and SVP of Innovation, Sales and Marketing for 5Q. For the past 25 years, she has focused her career on delivering outstanding measurable outcomes and providing real solutions to very complex problems for companies ranging from start-ups to Fortune 500 organizations. Veronica is obsessed with delighting customers, is an avid advocate of women in technology and is a champion of employee engagement through empowerment.
+Sessions: Wednesday, June 14, 2023 - 7:30 am: Inaugural Allies Breaking Barriers Sunrise Session
+Thursday, June 15, 2023 - 12:30 pm: Applying Tech and Innovation to Define, Implement and Accelerate Your DEIB Strategy
+
+Name: Ram Vadrev
+Title: Senior Director, Business Development Group | New Ventures and Innovation (NV&I)
+Company: NTT
+Description: 
+Sessions: Tuesday, June 13, 2023 - 2:40 pm: The Las Vegas 5G Project: A Built Infrastructure Case Study at City Scale
+
+Name: Paul Valente
+Title: Manager, Facility Automation Architext
+Company: Chicago Public Schools
+Description: Paul Valente is the Facility Automation Architect for Chicago Public Schools and is responsible for Managing/Upgrading/Repairing/Installing off all the BAS (Building Automation Systems) and other IoT systems going within CPS.  CPS has 1120 distinct physical structures encompassing   65+ million SF with an average age of   82 years old, that serves 320k students with 55k staff across the district and is the fourth largest school district in the United States.  Paul has extensive experience with all aspects of the IT infrastructure and is a “jack of all trades” kind of person who was tapped with this effort by the CIO of the district to make sure the efforts of centrally managing and keeping things working to provide the occupants a warm, cool, safe and dry setting is implemented.
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Data-Driven Approach for Managing Indoor Air Quality: Lessons Learned from K-6 School Programs
+
+Name: Ivo van Breukelen
+Title: Partner
+Company: The Proptech Connection
+Description: Ivo Van Breukelen brings a an excellent international commercial real estate and construction network with our proptechs, tech buyers and investors. Highly regarded as a dealmaker who is both efficient and trusted, he has over six years proptech experience, working with some of the USA’s largest REITs, developers, general contractors, VC funds and investment banks.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: PropTech in Review: A Status Report on VC and the Corporate Investment Landscape
+Wednesday, June 14, 2023 - 5:00 pm: From Juice Jacking to Ransomware: Cyber News You Can Use
+
+Name: Anil Varanasi
+Title: CEO
+Company: Meter
+Description: Anil Varanasi is the CEO of Meter, a company that provides internet infrastructure for businesses. He co-founded the company with his brother, Sunil, in 2015. Meter’s full-stack approach combines hardware, software, and operations to provide enterprise-grade networks that are faster, more accessible, and more secure to customers across industries including Brex, Evernote, Italic, Stord, and Tishman Speyer and more.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: Making Sense of the Wireless Communication Infrastructure: The Role of WiFi
+
+Name: Brian Vaughn
+Title: Sr Director, Global Innovation Hub & Digital Advisory
+Company: Cushman & Wakefield
+Description: Leveraging 15 years in the industry, Brian Vaughn creates awareness and understanding of the vendor and technology landscape to help educate C&W’s clients and provide guidance on technology selection and deployment. The innovation hub works with vendors to support C&W’s partner first approach enabled by advisory to create best in class technology solutions for our clients.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: An Independent Data Layer Strategy: What Does Independent Really Mean?
+
+Name: Tim Vogel
+Title: VP, Connected Solutions
+Company: KMC Controls
+Description: Tim Vogel is the Director of IoT at KMC Controls, leading initiatives around cloud-connected products and solutions, including the IoT and automation platform KMC Commander. Working in building automation and industrial IoT since 2016, he manages channel partners across OT and IT segments, OEM partnerships in energy and solar, large-scale accounts, cybersecurity products, and third-party partnerships with many leaders in PropTech.
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Data-Driven Approach for Managing Indoor Air Quality: Lessons Learned from K-6 School Programs
+
+Name: Leroy Walden
+Title: President
+Company: Highrose Consultants
+Description: Leroy Walden has worked in various leadership positions in the Building Controls and Automation industry for forty years. He is passionate in the pursuit of  the growing uses of technology in sustainable building operations. Leroy bring specific insights to smart devices and equipment and how open source integration platforms will transform building maintenance in the coming decades.
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: Smart Organizations to Drive Smarter Buildings
+
+Name: Donny Walker
+Title: Partner
+Company: Newcomb & Boyd
+Description: Donny Walker leads Newcomb Boyd's Intelligent Building Systems group. He has over 20 years of engineering, project management, and partner-in-charge responsibilities in communications, security and integrated building automation systems. His experience includes aviation facilities, health care buildings, judicial facilities, advanced technology developments, military installations, data centers, mixed-use developments, performing arts facilities and college campuses. With prowess designing technologically sophisticated campuses, his background encompasses over 150 projects specializing in an integrated design with network-enabled systems.
+Sessions: Tuesday, June 13, 2023 - 1:30 pm: Welcome and Introductions
+Tuesday, June 13, 2023 - 2:45 pm: Smart Building Design with the End in Mind
+Tuesday, June 13, 2023 - 5:55 pm: Wrap-Up
+Wednesday, June 14, 2023 - 12:00 pm: All About the Results: Sensor Data vs. Outcomes
+
+Name: Erik Wallin
+Title: Chief Ecosystem Officer
+Company: ProptechOS
+Description: Erik Wallin is the founder and Chief Ecosystem Officer of Idun ProptechOS. ProptechOS is a scalable platform for smart building portfolios that uses world leading standards for real estate data.Together they unlock property owner savings and new value, while championing a futureproof ecosystem for smart buildings in the smart city. Erik is an active researcher within the field of semantic technologies and applied machine learning for large scale autonomous systems.
+Sessions: Thursday, June 15, 2023 - 12:30 pm: The New Age of “Open”: Paving the Road for Smart Building Data Interoperability
+
+Name: Larry Wash
+Title: CEO
+Company: Albireo Energy
+Description: Larry is the CEO of Albireo Energy, a leading independent building controls and energy services provider recognized by customers for creating intelligent, high-performance buildings. He has dedicated his career to profitably growing and scaling OEM and independent industrial and services businesses. He brings a combination of large corporate and middle market experiences and serves on PE and portfolio company boards as an authority on services-led growth and high-performance, smart buildings.
+Sessions: Tuesday, June 13, 2023 - 3:15 pm: Industry Powerhouses Weigh-In on Climate Challenge in the Built Environment
+
+Name: Andrew Weakland
+Title: SVP, Director of Systems Development
+Company: W. P. Carey
+Description: Andrew Weakland is the Director of Systems Development for W. P. Carey, a net-lease REIT focused on providing long-term sale-leaseback and build-to-suit solutions for companies in the U.S. and Northern and Western Europe.  Andrew specializes in bringing emerging technologies into the real estate space to drive competitive advantage while maintaining the cohesiveness of the overall enterprise technology footprint.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: Turning Information into Intelligent Insights: Modern Analytics for Data-Driven Decisions
+
+Name: Perry Welch
+Title: SVP, Real Estate Partnerships
+Company: Airwavz Solutions
+Description: Perry Welch has over 20 years of sales and marketing experience in the wireless and commercial real estate industry. Presently, he leads Airwavz National growth of technology investments. Perry is an industry leading partner to brokers and CRE asset owners in making in-building wireless development simple.
+Sessions: Tuesday, June 13, 2023 - 5:10 pm: The In-Building Wireless Lifecycle: From Spec to Implementation to Management Lifecycle
+
+Name: Naseem Wenzel
+Title: Executive Director
+Company: Lionpoint Group
+Description: 
+Sessions: Wednesday, June 14, 2023 - 12:00 pm: Eutopia Investment Management (EIM): Consultation Workshop / Luncheon
+Wednesday, June 14, 2023 - 2:45 pm: Investment Management: Market Volatility from the Technology Perspective
+
+Name: Pam Westwater
+Title: Manager, Digital Engagement
+Company: Quadreal
+Description: 
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Focusing on Workplace: Digital Platforms to Streamline and Enhance Experience
+
+Name: Jim Whalen
+Title: SVP, CIO/CTO
+Company: BXP
+Description: Jim Whalen serves as SVP and CIO/CTO responsible for the direction and implementation of technology and applications at Boston Properties, a fully integrated real estate investment trust and one of the largest owners and developers of Class-A office properties in the United States. Over a 27-year IT career, Jim has supported real estate operations ranging from residential, construction, public housing, commercial office and retail.
+Sessions: Tuesday, June 13, 2023 - 8:40 am: Sponsor Introduction: View
+Tuesday, June 13, 2023 - 1:40 pm: Laying the Foundation: The Technical and Business Dynamics of Private Networks vs. DAS/Small Cells vs. WiFi
+Wednesday, June 14, 2023 - 12:00 pm: The Gateway to an Enhanced Occupant Experience: Focus on Access Control and Lobby Technologies
+
+Name: Jason Whipple
+Title: Senior Account Executive
+Company: McKinstry
+Description: Jason Whipple is an accomplished leader in the controls and integration industry with over two decades of experience. He has held various roles, including sales, operations, consultant, and energy auditor, among others. Jason has a passion for developing and implementing innovative strategies, and his ability to convert ideas into results has made him a sought-after professional. He is also an expert in communicating complex technical topics in a relatable manner. He is committed to developing innovative solutions that reduce energy consumption and promote environmental responsibility, and his expertise in controls and integration has helped numerous organizations achieve their sustainability goals.
+Sessions: Wednesday, June 14, 2023 - 3:15 pm: IoT in Smart Buildings: Making Sense of Sensor Technology
+
+Name: Charles Whiteley
+Title: VP, Global Digital Leader, B+P
+Company: AECOM
+Description: Charles Whiteley is VP, Global Digital Leader, B+P at AECOM. He has 15+ years of experience driving digital and business transformation efforts for Fortune 100 companies across a variety of industries. Charles is responsible for defining global digital strategy for AECOM’s B+P (Buildings and Places) business line and acts a key technology and strategy advisor for key client and government pursuits tied to smart cities, digital twins, smart campuses, common data environments, sustainability and large scale master plans and urban revitalization efforts.
+Sessions: Tuesday, June 13, 2023 - 5:20 pm: Incorporating an Embodied Carbon Strategy
+Wednesday, June 14, 2023 -: Realcomm | IBcon Chairs Weigh In: Unpacking Today’s Top PropTech Issues & Topics
+Wednesday, June 14, 2023 - 4:00 pm: Carbon Accounting, Reporting and Recommendation Engine Platforms: What’s in Your Toolbox?
+
+Name: Ashleigh Wilson
+Title: CEO & Founder
+Company: AuditMate
+Description: Raised in a family of elevator mechanics and managers, Ashleigh entered the industry herself in her early 20s. Over her successful career in the industry, she came to realize that the customer was always an afterthought. So, she made it her mission to show that if people were put first, profits would follow.  Once it became clear that the corporate mindset would not shift from profits to people, she decided to become a client advocate by starting AuditMate.  Ashleigh believes that results can be attained without sacrificing human dignity and if you’re not human-centric in your approach, no one succeeds.
+Sessions: Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+
+Name: Lisa Woods
+Title: Managing Partner, SVP Business Development
+Company: Realcomm
+Description: As Managing Partner, SVP of Strategy & Business Development, Lisa Woods is responsible for developing Realcomm's strategic relationships with the technology companies that participate in the company's conferences, seminars and CIO events. Prior to joining Realcomm, Lisa spent 10 years working with building owners and managers, providing technology solutions in telecommunications, access control and security.
+Sessions: Tuesday, June 13, 2023 - 1:30 pm: Welcome and Introductions
+Wednesday, June 14, 2023 - 8:45 am: Welcome and introductions (Day One)
+Wednesday, June 14, 2023 - 4:00 pm: PropTech Launchpad Showcase
+Thursday, June 15, 2023 - 8:15 am: General Session (Day Two)
+
+Name: Steve Woods
+Title: Creative Technology Lead
+Company: Gensler
+Description: 
+Sessions: Thursday, June 15, 2023 - 11:30 am: Ensuring Collaboration Equity: Best Practices for the Modern Hybrid Work Landscape
+
+Name: James Wu
+Title: CEO
+Company: InnerSpace
+Description: James Wu has dedicated the last 20 years to building award-winning products for notable technology startups. Playing a pivotal role at each company, James built and led product development while honing his understanding of what it takes to develop a team, product and company from early days to global success. Today he is co-founder and CEO of InnerSpace, a space utilization and analytics platform that enables enterprise-class clients to optimize their ROI in a finite and costly resource: the office space.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: Focusing on Workplace: Digital Platforms to Streamline and Enhance Experience
+
+Name: Leon Wurfel
+Title: CEO
+Company: BUENO
+Description: Leon Wurfel is the CEO of BUENO. Leon founded BUENO in partnership with Airmaster Australia with the aim of utilising current and emerging technologies to drive innovative sustainability and operations solutions.
+Sessions: Wednesday, June 14, 2023 - 1:00 pm: An Independent Data Layer Strategy: What Does Independent Really Mean?
+
+Name: Anant Yardi
+Title: President
+Company: Yardi
+Description: In 1982, Anant Yardi recognized the need for an integrated accounting and property management software for the residential marketplace. With his background and years of programming experience, he designed “Basic Property Management” which  was created for the Apple II computer and was sold to the company's first customer, Sabaco Realtors. Since then, Anant has directed the company through over 30 years of steady growth, remaining the president and sole owner as Yardi became a leader in real estate asset and property management solutions. Today, Anant continues to serve as president of Yardi Systems, and his vision is the driving force behind the development of effective and innovative software solutions for global real estate portfolio management.
+Sessions: Wednesday, June 14, 2023 -: Industry Perspective: What Does the Future Hold for Commercial and Corporate Real Estate
+
+Name: Thomas Yeh
+Title: Technical Advisor
+Company: NYSERDA
+Description: Thomas Yeh is a recognized expert in energy management, building systems, and utility incentive programs, who is currently serving as the technical advisor and consultant to NYSERDA's Advanced Efficiency Solutions Team. In addition to his experience overseeing utility programs in several jurisdictions, Thomas' career also includes leading the development and pioneering in data analytics, wireless lighting control, embedded gateway design, networking IoT devices, and data center energy efficiency. He has 20 US and international patents and numerous professional certifications and accreditation.
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Modern Data Architecture for Real-Time Energy Management
+
+Name: Jim Young
+Title: Co-Founder & CEO
+Company: Realcomm
+Description: Founder of Realcomm Conference Group, an education organization that produces Realcomm, IBcon and CoRE Tech, the world's leading conferences on technology, automated business solutions, intelligent buildings and energy efficiency for the commercial and corporate real estate industry. As CEO, Jim interacts with the largest companies globally pertaining to some of the most advanced and progressive next generation real estate projects under development.
+Sessions: Tuesday, June 13, 2023 - 8:00 am: Welcome
+Tuesday, June 13, 2023 - 8:10 am: Understanding the Growing Scope of the Nation State Cyber Threat
+Tuesday, June 13, 2023 - 12:00 pm: Welcome & Introductions
+Tuesday, June 13, 2023 - 1:30 pm: Welcome and Introduction
+Tuesday, June 13, 2023 - 1:45 pm: Welcome and Introductions
+Tuesday, June 13, 2023 - 5:50 pm: Wrap-Up
+Wednesday, June 14, 2023 -: 25 Years @ the Intersection of Technology, Automation, Innovation and the Built Environment
+Wednesday, June 14, 2023 - 8:45 am: Welcome and introductions (Day One)
+Thursday, June 15, 2023 - 8:15 am: General Session (Day Two)
+Thursday, June 15, 2023 - 12:30 pm: Understanding Nation State Technology Challenges and Threats!
+
+Name: McGee Young
+Title: Founder & CEO
+Company: WattCarbon
+Description: McGee is the Founder and CEO of WattCarbon. Prior to WattCarbon, McGee was the CTO at Recurve, an energy efficiency startup. McGee founded two previous companies, MeterHero and H2OScore while also earning tenure in the Political Science department at Marquette University. He is the author of Developing Interests: Organizational Change and the Politics of Advocacy.
+Sessions: Tuesday, June 13, 2023 - 3:50 pm: Technology's Role in Decarbonization
+
+Name: Ilan Zachar
+Title: CTO
+Company: Carr Properties
+Description: Ilan Zachar is currently Chief Technology Officer at Carr Properties, a privately held REIT known for its portfolio of trophy-quality properties in the Washington D.C. In this role, Ilan leverages vision and foresight to cross-pollinate best practices, processes, systems and resources across corporate operations/affiliates. Under his leadership, this has resulted in improvements in bottom-line costs, top-line business growth/scalability, operational sustainability and high performance and overall, strengthening his company’s role as a market leader. For over 20 years, Ilan has been executive business leader and innovative technology strategist for multinational real-estate and property development companies worldwide.
+Sessions: Tuesday, June 13, 2023 - 8:10 am: Understanding the Growing Scope of the Nation State Cyber Threat
+Tuesday, June 13, 2023 - 9:25 am: Keeping Cyber Relevant in Challenging Economic Times
+Tuesday, June 13, 2023 - 12:50 pm: Critical Importance of Executive Support
+Tuesday, June 13, 2023 - 3:30 pm: Learning from Experience: Building a Low Voltage Lab
+Tuesday, June 13, 2023 - 5:10 pm: The In-Building Wireless Lifecycle: From Spec to Implementation to Management Lifecycle
+Wednesday, June 14, 2023 - 2:00 pm: Inside Commercial Real Estate Innovation Labs: Where Future Building Technologies Come to Life
+
+Name: Cindy Zhu
+Title: Director, Grid Services
+Company: Prescriptive Data
+Description: Cindy Zhu works at the intersection of real estate, energy efficiency, and emerging technologies. She is currently Director of the Grid Services team at Prescriptive Data and has previously led major climate and energy initiatives at federal and state government agencies, including the U.S. Department of Energy. Cindy is on the leadership team of the Clean Energy Leadership Institute, a 501c3 nonprofit dedicated to developing the next generation of leaders dedicated to transforming the clean energy economy.
+Sessions: Thursday, June 15, 2023 - 11:30 am: A Modern Data Architecture for Real-Time Energy Management
+
+Name: Phil Zito
+Title: CEO
+Company: Smart Buildings Academy
+Description: Phil Zito is the founder and CEO of Smart Buildings Academy (SBA), the world’s largest independent smart buildings training company. SBA has provided online training to well over 13,000+ students across 2,000+ companies since 2017. He has held roles in operations, sales, partner management, and engineering.
+Sessions: Tuesday, June 13, 2023 - 2:30 pm: Recruiting and Training Our Next Generation of Controls Professionals
+Thursday, June 15, 2023 - 11:30 am: Smart Facilities Skillset Planning Workshop
+
+Name: Paul Zoby
+Title: President & CEO
+Company: American Energy Assets
+Description: Paul Zoby is President & CEO of American Energy Assets, a Denver-based healthcare energy conservation company celebrating its 20th anniversary in 2023. Conservation in the healthcare space involves a fairly high bar for understanding how to implement opportunities in a particularly demanding environment.  PZ has 30 years of experience in this space, with the last 15 years entirely focused on hospitals. He has prior experience in mechanical contracting and consulting before concentrating entirely on energy conservation in 1993.
+Sessions: Tuesday, June 13, 2023 - 5:00 pm: Tech Partner Conversation | Mapped
+

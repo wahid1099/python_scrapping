@@ -9,8 +9,13 @@ def extract_web_content(url):
     html_content = response.content
     soup = BeautifulSoup(html_content, 'html.parser')
 
-    element = soup.select_one(".main-digies-winners")
+    # element = soup.select_one(".advisors-section")
+    # element = soup.select_one(".advisors-section-container")
+    
     # element = soup.find_all(".main-int")
+    element = soup.select_one(".program-styles")
+    # element = soup.select_one("div",id= 'scholarship')
+    
     
 
     t = element.get_text().strip()
@@ -25,7 +30,7 @@ def extract_web_content(url):
     # data = re.sub(r"\s+", " ", t).strip()
 
     print(data)
-    character_limit = 500
+    character_limit = 35000
     wb = Workbook()
     ws = wb.active
 
@@ -36,7 +41,7 @@ def extract_web_content(url):
         end_index = (i + 1) * character_limit
         cell_value = data[start_index:end_index]
         ws.cell(row=i + 1, column=1).value = cell_value
-    wb.save("Realcomm data.xlsx")
+    wb.save("scarapped_data.xlsx")
 
     df = pd.DataFrame(columns=['Home Page'])
     row = [data]
@@ -44,6 +49,6 @@ def extract_web_content(url):
     return df
 
 
-urls = 'https://www.realcomm.com/realcomm-2023/digies/winners/'
+urls = 'https://realcomm.com/realcomm-2023/program/'
 extract_web_content(urls)
 
